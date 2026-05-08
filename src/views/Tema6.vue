@@ -29,7 +29,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Tabla 4.
-          span Parámetros de calidad
+          span Características organolépticas
         .tabla-a.color-acento-contenido.mb-0
           table
             caption Nota. SENA, (2026).
@@ -40,43 +40,43 @@
                 th Descripción
             tbody
               tr
-                td(rowspan="4").bg-white <b>Organolépticas</b>
-                td Color
+                td(rowspan="4").bg-white <b>Organolépticas</b>.
+                td Color.
                 td Debe ser uniforme y característico del producto. Un bizcocho debe tener un dorado homogéneo; una crema pastelera, un amarillo pálido uniforme sin grumos oscuros ni quemados.
               tr
-                td Olor
+                td Olor.
                 td Aroma fresco, agradable y característico a los ingredientes utilizados (vainilla, chocolate, frutas, cítricos). Debe estar ausente cualquier olor a rancio, quemado, fermentado o extraño.
               tr
-                td Sabor
+                td Sabor.
                 td Balanceado, con la intensidad adecuada de dulzor, sin sabores extraños a ingredientes en mal estado, a quemado o a productos químicos de limpieza.
               tr
-                td Textura
-                td Varía según el producto, pero debe ser la esperada: un bizcocho debe ser esponjoso y húmedo; una masa quebrada, crujiente y arenosa; una mousse, aireada y suave en boca.
+                td Textura.
+                td Varía según el producto, pero debe ser la esperada: un bizcocho debe ser esponjoso y húmedo; una masa quebrada, crujiente y arenosa; una <i>mousse</i>, aireada y suave en boca.
               tr
-                td(rowspan="3") <b>Fisicoquímicas</b>
-                td pH (potencial de hidrógeno)
+                td(rowspan="3") <b>Fisicoquímicas</b>.
+                td pH (potencial de hidrógeno).
                 td Mide la acidez o alcalinidad. Influye en el sabor y en la conservación. Valores bajos (ácidos) inhiben el crecimiento microbiano.
               tr
-                td Humedad
+                td Humedad.
                 td Contenido de agua en el producto. Afecta la textura y la vida útil. Un bizcocho muy seco es inaceptable; uno muy húmedo puede fermentar o desarrollar moho rápidamente.
               tr
-                td Actividad de agua (aw)
+                td Actividad de agua (aw).
                 td Mide el agua disponible para el crecimiento microbiano. La mayoría de las bacterias requieren aw &gt; 0.85. Los productos de repostería con aw baja (galletas, bizcochos secos) se conservan más tiempo.
               tr
-                td(rowspan="5") <b>Microbiológicas</b>
-                td Mesófilos aerobios
+                td(rowspan="5") <b>Microbiológicas</b>.
+                td Mesófilos aerobios.
                 td Indicador de higiene general del proceso.
               tr
-                td Coliformes y E. coli
+                td Coliformes y <i>E. coli</i>.
                 td Indicador de contaminación fecal, generalmente por malas prácticas de higiene.
               tr
-                td Salmonella spp.
+                td <i>Salmonella</i> spp.
                 td Patógeno de alto riesgo, asociado a huevos y lácteos mal procesados.
               tr
-                td Staphylococcus aureus
+                td <i>Staphylococcus aureus</i>.
                 td Indicador de contaminación por manipuladores (mala higiene de manos).
               tr
-                td Mohos y levaduras
+                td Mohos y levaduras.
                 td Responsables de deterioro (enmohecimiento, fermentación) y posibles productores de micotoxinas.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -86,7 +86,7 @@
           span Criterios microbiológicos para productos de repostería (Ejemplo)
         .tabla-a.color-acento-contenido.mb-0
           table
-            caption Nota. Basado en normativa INVIMA (2020) y Codex Alimentarius (1993). UFC: Unidades Formadoras de Colonia.
+            caption Nota. Basado en normativa INVIMA (2020) y <i>Codex Alimentarius</i> (1993). UFC: Unidades Formadoras de Colonia.
             thead
               tr
                 th Microorganismo
@@ -95,23 +95,23 @@
             tbody
               tr
                 td Mesófilos aerobios.
-                td &lt; 10.000 UFC/g
+                td &lt; 10.000 UFC/g.
                 td Higiene general adecuada.
               tr
                 td Coliformes.
-                td &lt; 10 UFC/g
+                td &lt; 10 UFC/g.
                 td Buenas prácticas de higiene.
               tr
-                td E. coli.
+                td <i>E. coli</i>.
                 td Ausencia.
                 td Libre de contaminación fecal.
               tr
-                td Salmonella.
-                td Ausencia en 25g
+                td <i>Salmonella</i>.
+                td Ausencia en 25g.
                 td Producto seguro.
               tr
                 td Mohos y levaduras.
-                td &lt; 100 UFC/g
+                td &lt; 100 UFC/g.
                 td Control de deterioro.
 
     separador
@@ -148,7 +148,7 @@
               .row.mb-3.justify-content-center
                 .col-12.col-md-auto.mb-3.mb-md-0
                   img.img-100.mx-auto(src='@/assets/curso/tema6/img05.png' alt='Preparación (mise en place)')
-              h4.text-center Preparación (mise en place)
+              h4.text-center Preparación (<i>mise en place</i>)
               p.mb-0 Aplicar código de colores (tablas y cuchillos), lavado de manos frecuente (5 momentos), evitar contaminación cruzada, mantener superficies limpias y desinfectadas.
 
             .tarjeta.tarjeta--slyder.p-4
@@ -179,7 +179,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p.mb-0 Según el sistema HACCP (análisis de peligros y puntos críticos de control), se deben identificar etapas donde el control es esencial para prevenir, eliminar o reducir un peligro a niveles aceptables (Codex Alimentarius, 1993).
+        p.mb-0 Según el sistema <i>HACCP</i> (análisis de peligros y puntos críticos de control), se deben identificar etapas donde el control es esencial para prevenir, eliminar o reducir un peligro a niveles aceptables (<i>Codex Alimentarius</i>, 1993).
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -199,7 +199,7 @@
             tbody
               tr
                 td Recepción de huevos.
-                td Biológico (Salmonella).
+                td Biológico (<i>Salmonella</i>).
                 td Verificar proveedor, rechazar huevos sucios o rotos.
                 td Procedencia certificada, cascarón intacto.
                 td Inspección visual.

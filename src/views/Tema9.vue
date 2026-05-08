@@ -98,7 +98,7 @@
                 ul.lista-ul--color
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Plásticos: envases de ingredientes, bolsas, film, recipientes.
+                    | Plásticos: envases de ingredientes, bolsas, <i>film</i>, recipientes.
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
                     | Vidrio: botellas de esencias, licores, envases.
@@ -110,7 +110,7 @@
                     | Metales: latas de conservas, aerosoles (vacíos).
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Tetra pak: envases de leche, crema de leche, jugos.
+                    | Tetra <i>pak</i>: envases de leche, crema de leche, jugos.
 
           .p-3.p-md-4(titulo="No aprovechables")
             .row.justify-content-center.align-items-center
@@ -133,7 +133,7 @@
                 ul.lista-ul--color
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Envases de aerosoles (aceites en spray, desmoldantes).
+                    | Envases de aerosoles (aceites en <i>spray</i>, desmoldantes).
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
                     | Envases de productos de limpieza y desinfección.
@@ -180,8 +180,8 @@
       .col-lg-12
         p.mb-4 La Resolución 2184 de 2019 adoptó el código de colores para la separación de residuos sólidos en Colombia:
         .titulo-sexto.color-acento-contenido.mb-4
-          h5.text-bold Tabla 9.
-          span Código de colores para la separación de residuos sólidos
+          h5.text-bold Tabla 9.	
+          span La Resolución 2184 de 2019 adoptó el código de colores para la separación de residuos sólidos en Colombia:
         .tabla-a.color-acento-contenido.mb-0
           table
             caption Nota. SENA, (2026).
@@ -218,7 +218,7 @@
                   | Los recipientes deben estar claramente identificados con el color correspondiente y con letreros que indiquen el tipo de residuo.
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
-                  | Los residuos aprovechables deben estar limpios y secos para facilitar su reciclaje (enjuagar envases de plástico, vidrio y tetra pak antes de depositar).
+                  | Los residuos aprovechables deben estar limpios y secos para facilitar su reciclaje (enjuagar envases de plástico, vidrio y tetra <i>pak</i> antes de depositar).
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
                   | No mezclar residuos orgánicos con inorgánicos aprovechables.

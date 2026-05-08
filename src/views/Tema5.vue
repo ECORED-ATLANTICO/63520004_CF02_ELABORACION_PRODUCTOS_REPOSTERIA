@@ -75,13 +75,13 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.2 Técnicas básicas de decoración: manga pastelera, boquillas, glaseado
 
-    p.mb-4 Las técnicas básicas de decoración en repostería permiten mejorar la presentación y el acabado final de los productos elaborados. A través del uso de herramientas como la manga pastelera y diferentes tipos de boquillas, es posible aplicar cremas, rellenos y coberturas para crear diseños y detalles decorativos en tortas, cupcakes y otros postres.
+    p.mb-4 Las técnicas básicas de decoración en repostería permiten mejorar la presentación y el acabado final de los productos elaborados. A través del uso de herramientas como la manga pastelera y diferentes tipos de boquillas, es posible aplicar cremas, rellenos y coberturas para crear diseños y detalles decorativos en tortas, <i>cupcakes</i> y otros postres.
     
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-6")
-          div(titulo="Manga pastelera (Piping bag)")
+          div(titulo="Manga pastelera (<i>Piping bag</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5 Herramienta fundamental para aplicar cremas, masas y glaseados con precisión. El manejo correcto incluye llenar solo hasta la mitad, eliminar burbujas de aire y aplicar presión uniforme con una mano mientras la otra guía la manga.
@@ -89,23 +89,23 @@
                 figure
                   img(src="@/assets/curso/tema5/img10.png", alt="Manga pastelera").mx-auto
 
-          div(titulo="Boquillas (Tips)")
+          div(titulo="Boquillas (<i>Tips</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5.mb-2 Determinan la forma de la decoración. Las más comunes son:
                 ul.lista-ul--color.ms-5
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Lisa (round): para escribir, bordes, rellenar, churros, éclairs.
+                    | Lisa (<i>round</i>): para escribir, bordes, rellenar, churros, <i>éclairs</i>.
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Estrella (star): para rosetones, conchas, bordes decorativos (abierta o cerrada).
+                    | Estrella (<i>star</i>): para rosetones, conchas, bordes decorativos (abierta o cerrada).
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Rizada o pétalo (petal): para formar flores y pétalos (rosas, claveles).
+                    | Rizada o pétalo (<i>petal</i>): para formar flores y pétalos (rosas, claveles).
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Hoja (Leaf): para formar hojas.
+                    | Hoja (<i>Leaf</i>): para formar hojas.
                   li
                     i.fas.fa-circle-right.bg-color-4
                     | Rellena (Bismarck): para inyectar rellenos en el interior de masas.
@@ -113,10 +113,10 @@
                 figure
                   img(src="@/assets/curso/tema5/img11.png", alt="Boquillas").mx-auto
 
-          div(titulo="Glaseado (Icing)")
+          div(titulo="Glaseado (<i>Icing</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.ms-5 Puede ser fluido (para cubrir) o más espeso (para decorar con manga). El glaseado real (royal icing) se elabora con clara de huevo o merengue en polvo y azúcar glass, y se endurece al secar, ideal para decoraciones finas.
+                p.ms-5 Puede ser fluido (para cubrir) o más espeso (para decorar con manga). El glaseado real (<i>royal icing</i>) se elabora con clara de huevo o merengue en polvo y azúcar <i>glass</i>, y se endurece al secar, ideal para decoraciones finas.
               .col-lg-5
                 figure
                   img(src="@/assets/curso/tema5/img12.png", alt="Glaseado").mx-auto
@@ -154,7 +154,7 @@
             .tarjeta.bg-color-7.h-100
               img(src='@/assets/curso/tema5/img17.png' alt='Salsas y coulis')
               .p-4
-                h4.text-center Salsas y coulis: 
+                h4.text-center Salsas y <i>coulis</i>: 
                 p.mb-0 Aplicar con pulso firme, creando diseños (puntos, hilos, espejos, barridos). Utilizar biberones o cucharas para controlar el flujo.
 
             .tarjeta.bg-color-7.h-100

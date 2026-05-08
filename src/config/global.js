@@ -48,7 +48,8 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Masas quebradas (masa brisa, masa sucrée, masa sablee)',
+            titulo:
+              'Masas quebradas (masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablee</i>)',
             hash: 't_2_1',
           },
           {
@@ -63,12 +64,12 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Masas escaldadas (pasta choux)',
+            titulo: 'Masas escaldadas (pasta <i>choux</i>)',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo: 'Masas fermentadas (brioche, roscones)',
+            titulo: 'Masas fermentadas (<i>brioche</i>, roscones)',
             hash: 't_2_5',
           },
         ],
@@ -76,7 +77,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Jarabes, fondant, cremas, coberturas y salsas básicas',
+        titulo: 'Jarabes, <i>fondant</i>, cremas, coberturas y salsas básicas',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -87,12 +88,12 @@ export default {
           {
             numero: '3.2',
             titulo:
-              'Cremas: pastelera, mantequilla, chantilly, diplomática, muselina',
+              'Cremas: pastelera, mantequilla, <i>chantilly</i>, diplomática, <i>muselina</i>',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Coberturas: chocolate, ganache, espejo',
+            titulo: 'Coberturas: chocolate, <i>ganache</i>, espejo',
             hash: 't_3_3',
           },
           {
@@ -102,7 +103,7 @@ export default {
           },
           {
             numero: '3.5',
-            titulo: 'Fondant: cubierta y modelable',
+            titulo: '<i>Fondant</i>: cubierta y modelable',
             hash: 't_3_5',
           },
         ],
@@ -120,7 +121,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Bavarois, mousses y soufflés',
+            titulo: '<i>Bavarois</i>, <i>mousses</i> y <i>soufflés</i>',
             hash: 't_4_2',
           },
           {
@@ -297,7 +298,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_00000__DU.pdf',
+        download: 'downloads/CFA2_00000_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -363,7 +364,7 @@ export default {
     {
       termino: 'Desecación',
       significado:
-        'proceso en la elaboración de pasta choux donde se cocina la harina con agua y mantequilla para eliminar el exceso de humedad.',
+        'proceso en la elaboración de pasta <i>choux</i> donde se cocina la harina con agua y mantequilla para eliminar el exceso de humedad.',
     },
     {
       termino: 'Emulsionar',
@@ -376,17 +377,17 @@ export default {
         'hoja de costos donde se detallan todos los ingredientes de una receta, sus cantidades y costos, para determinar el precio de venta.',
     },
     {
-      termino: 'Fondant',
+      termino: '<i>Fondant</i>',
       significado:
-        'pasta de azúcar maleable utilizada para cubrir tortas (fondant de cobertura) o modelar figuras decorativas (fondant modelable).',
+        'pasta de azúcar maleable utilizada para cubrir tortas (<i>fondant</i> de cobertura) o modelar figuras decorativas (<i>fondant</i> modelable).',
     },
     {
-      termino: 'Ganache',
+      termino: '<i>Ganache</i>',
       significado:
         'mezcla de chocolate y crema de leche caliente, utilizada como relleno, cobertura o base para trufas.',
     },
     {
-      termino: 'HACCP',
+      termino: '<i>HACCP</i>',
       significado:
         'enfoque preventivo para garantizar la inocuidad de los alimentos basado en el análisis de peligros y puntos críticos de control.',
     },
@@ -406,7 +407,7 @@ export default {
         'pérdida de materia prima durante el proceso productivo (cáscaras, recortes, evaporación), puede ser técnica o evitable.',
     },
     {
-      termino: 'Mise en place',
+      termino: '<i>Mise en place</i>',
       significado:
         'término francés que significa "poner en su lugar"; organización y preparación previa de todos los elementos necesarios antes de comenzar a cocinar.',
     },
@@ -416,7 +417,7 @@ export default {
         'batir crema de leche o claras de huevo hasta que aumenten su volumen y adquieran textura espumosa y firme.',
     },
     {
-      termino: 'Pasta choux',
+      termino: 'Pasta <i>choux</i>',
       significado:
         'masa escaldada elaborada con agua, mantequilla, harina y huevos, que se infla en el horno creando un interior hueco.',
     },
@@ -439,25 +440,25 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de Colombia. (24 de enero de 1979). <em>Ley 9 de 1979, por la cual se dictan medidas sanitarias</em>. Diario Oficial No. 35308. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1177',
+        'Congreso de Colombia. (24 de enero de 1979). <em>Ley 9 de 1979, por la cual se dictan medidas sanitarias</em>. Diario Oficial No. 35308.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1177',
     },
     {
       referencia:
-        'Congreso de Colombia. (22 de diciembre de 1993). <em>Ley 99 de 1993, por la cual se crea el Ministerio del Medio Ambiente y se organiza el Sistema Nacional Ambiental (SINA)</em>. Diario Oficial No. 41.146. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=297',
+        'Congreso de Colombia. (22 de diciembre de 1993). <em>Ley 99 de 1993, por la cual se crea el Ministerio del Medio Ambiente y se organiza el Sistema Nacional Ambiental (SINA)</em>. Diario Oficial No. 41.146.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=297',
     },
     {
       referencia:
-        'Congreso de Colombia. (19 de diciembre de 2008). <em>Ley 1259 de 2008, por medio de la cual se instaura en el territorio nacional la aplicación del comparendo ambiental</em>. Diario Oficial No. 47.208. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34388',
+        'Congreso de Colombia. (19 de diciembre de 2008). <em>Ley 1259 de 2008, por medio de la cual se instaura en el territorio nacional la aplicación del comparendo ambiental</em>. Diario Oficial No. 47.208.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34388',
     },
     {
       referencia:
-        'Congreso de Colombia. (11 de julio de 2012). <em>Ley 1562 de 2012, por la cual se modifica el Sistema de Riesgos Laborales</em>. Diario Oficial No. 48.488. Recuperado de https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48365',
+        'Congreso de Colombia. (11 de julio de 2012). <em>Ley 1562 de 2012, por la cual se modifica el Sistema de Riesgos Laborales</em>. Diario Oficial No. 48.488. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48365',
     },
@@ -475,7 +476,7 @@ export default {
     },
     {
       referencia:
-        'INVIMA. (2020). <em>Lineamientos para la aplicación de las Buenas Prácticas de Manufactura en establecimientos de alimentos</em>. Instituto Nacional de Vigilancia de Medicamentos y Alimentos. https://www.invima.gov.co/biblioteca/lineamientos-certificados-bpm-cvl-registro-sanitario',
+        'INVIMA. (2020). <em>Lineamientos para la aplicación de las Buenas Prácticas de Manufactura en establecimientos de alimentos</em>. Instituto Nacional de Vigilancia de Medicamentos y Alimentos.',
       link:
         'https://www.invima.gov.co/biblioteca/lineamientos-certificados-bpm-cvl-registro-sanitario',
     },
@@ -485,37 +486,39 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (26 de diciembre de 2019). <em>Resolución 2184 de 2019, por la cual se adopta el código de colores para la separación de residuos sólidos</em>. Diario Oficial No. 51.173. https://www.minambiente.gov.co/documento-normativa/resolucion-2184-de-2019/',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (26 de diciembre de 2019). <em>Resolución 2184 de 2019, por la cual se adopta el código de colores para la separación de residuos sólidos</em>. Diario Oficial No. 51.173.',
       link:
         'https://www.minambiente.gov.co/documento-normativa/resolucion-2184-de-2019/',
     },
     {
       referencia:
-        'Ministerio de Salud. (10 de diciembre de 1997). <em>Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979 y se dictan otras disposiciones</em>. Diario Oficial No. 43.246. https://www.minsalud.gov.co/Normatividad_Nuevo/decreto%203075%20DE%201997.pdf',
+        'Ministerio de Salud. (10 de diciembre de 1997). <em>Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979 y se dictan otras disposiciones</em>. Diario Oficial No. 43.246.',
       link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/decreto%203075%20DE%201997.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (26 de mayo de 2015). <em>Decreto 1072 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo</em>. Diario Oficial No. 49.523. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173',
+        'Ministerio de Salud y Protección Social. (26 de mayo de 2015). <em>Decreto 1072 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo</em>. Diario Oficial No. 49.523.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173',
     },
     {
       referencia:
-        'Ministerio de Vivienda, Ciudad y Territorio. (20 de diciembre de 2013). <em>Decreto 2981 de 2013, por el cual se reglamenta la prestación del servicio público de aseo</em>. Diario Oficial No. 48.998. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56035',
+        'Ministerio de Vivienda, Ciudad y Territorio. (20 de diciembre de 2013). <em>Decreto 2981 de 2013, por el cual se reglamenta la prestación del servicio público de aseo</em>. Diario Oficial No. 48.998.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56035',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (26 de mayo de 2015). <em>Decreto 1076 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente</em>. Diario Oficial No. 49.523. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153',
+        'Ministerio de Ambiente y Desarrollo Sostenible. (26 de mayo de 2015). <em>Decreto 1076 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente</em>. Diario Oficial No. 49.523.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153',
     },
     {
       referencia:
-        'SENA. (2020). <em>Manual de Buenas Prácticas de Manufactura para servicios de alimentación</em>. Dirección de Formación Profesional, Servicio Nacional de Aprendizaje. [Disponible en plataforma Sofía Plus y Territorium para aprendices SENA]',
+        'SENA. (2020). <em>Manual de Buenas Prácticas de Manufactura para servicios de alimentación</em>. Dirección de Formación Profesional, Servicio Nacional de Aprendizaje.',
+      link:
+        'https://sena.territorio.la/content/index.php/instruccion/13190296-manual-de-buenas-practicas-de-manufactura-para-servicios-de-alimentacion-1506743',
     },
     {
       referencia:
@@ -530,7 +533,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
@@ -548,7 +551,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'María Fernanda Morales Angulo',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -558,17 +561,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Alicia Martínez Torres',
+          nombre: 'Luis Gabriel Urueta',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollador <em>full stack</em>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

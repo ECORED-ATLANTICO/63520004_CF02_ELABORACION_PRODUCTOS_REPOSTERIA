@@ -29,7 +29,7 @@ export default {
         {
           id: 1,
           texto:
-            'La mise en place se refiere únicamente a la decoración final del producto.',
+            'La <i>mise en place</i> se refiere únicamente a la decoración final del producto.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -37,7 +37,7 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Correcto. La mise en place significa “poner en su lugar” y consiste en organizar previamente ingredientes, utensilios y equipos antes de iniciar la preparación.',
+            'Correcto. La <i>mise en place</i> significa “poner en su lugar” y consiste en organizar previamente ingredientes, utensilios y equipos antes de iniciar la preparación.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -89,7 +89,7 @@ export default {
         {
           id: 5,
           texto:
-            'La pasta choux forma su estructura hueca gracias al vapor generado por su alto contenido de agua.',
+            'La pasta <i>choux</i> forma su estructura hueca gracias al vapor generado por su alto contenido de agua.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -298,7 +298,7 @@ export default {
         {
           id: 19,
           texto:
-            'La crema chantilly debe montarse con todos los utensilios fríos para obtener mejor volumen.',
+            'La crema <i>chantilly</i> debe montarse con todos los utensilios fríos para obtener mejor volumen.',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [

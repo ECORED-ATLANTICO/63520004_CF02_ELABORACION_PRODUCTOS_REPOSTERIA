@@ -34,7 +34,7 @@
                 td Masas quebradas.
                 td Textura crujiente y arenosa.
                 td Principalmente vapor y químico.
-                td Masa brisa, masa sucrée, masa sablée.
+                td Masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablée</i>.
               tr
                 td Masas batidas.
                 td Textura esponjosa y aireada.
@@ -49,25 +49,25 @@
                 td Masas escaldadas.
                 td Interior hueco, exterior crujiente.
                 td Vapor durante el horneado.
-                td Pasta choux (éclairs, profiteroles).
+                td Pasta <i>choux</i> (<i>éclairs</i>, <i>profiteroles</i>).
               tr
                 td Masas fermentadas.
                 td Textura suave y alveolada.
                 td Dióxido de carbono (levadura).
-                td Brioche, roscón.
+                td <i>Brioche</i>, roscón.
 
     separador
 
     .bg-full-width.bg-fondo-1
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.1 Masas quebradas (masa brisa, masa sucrée, masa sablee)
+        h2 2.1 Masas quebradas (masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablee</i>)
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-4.col-md-8.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema2/img02.png", data-aos="zoom-in")
         .col-lg-8
-          p.mb-3 En Las masas quebradas, también conocidas como "pastas quebradas" o "shortcrust pastries", se caracterizan por su textura crujiente y friable, que se deshace fácilmente en la boca. El término "sablée" (arenado en francés) hace referencia precisamente a esta textura arenosa. Su elaboración se basa en el principio de encapsular las partículas de grasa con harina para limitar el desarrollo del gluten, lo que resulta en una masa tierna y quebradiza (Figoni, 2012).
+          p.mb-3 En Las masas quebradas, también conocidas como "pastas quebradas" o "<i>shortcrust pastries</i>", se caracterizan por su textura crujiente y friable, que se deshace fácilmente en la boca. El término "<i>sablée</i>" (arenado en francés) hace referencia precisamente a esta textura arenosa. Su elaboración se basa en el principio de encapsular las partículas de grasa con harina para limitar el desarrollo del gluten, lo que resulta en una masa tierna y quebradiza (Figoni, 2012).
   
           h4.mb-3 Principios técnicos
   
@@ -202,7 +202,7 @@
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
               texto="Masas batidas, técnica y control de calidad en bizcochos"
               tiempo
-              :audio="require('@/assets/curso/audio/1.mp3')"
+              :audio="require('@/assets/curso/audio/Masas batidas en repostería, técnica, estructura y calidad profesional PODCAST.mp3')"
             )
         
 
@@ -229,14 +229,14 @@
         figure
           img(src="@/assets/curso/tema2/img13.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-3 El hojaldre es una de las masas más complejas y espectaculares de la repostería. Su característica principal es la multiplicidad de capas finas y crujientes, lograda mediante sucesivos plegados de una masa base (détrempe) que envuelve una capa de mantequilla (materia grasa). Según Suas (2014), "un buen hojaldre no se hornea, se construye capa por capa, y cada pliegue contribuye a la estructura final que se elevará en el horno" (p. 312).
+        p.mb-3 El hojaldre es una de las masas más complejas y espectaculares de la repostería. Su característica principal es la multiplicidad de capas finas y crujientes, lograda mediante sucesivos plegados de una masa base (<i>détrempe</i>) que envuelve una capa de mantequilla (materia grasa). Según Suas (2014), "un buen hojaldre no se hornea, se construye capa por capa, y cada pliegue contribuye a la estructura final que se elevará en el horno" (p. 312).
 
         h4.mb-3 Principios técnicos
 
         .lista-ul--color
           li
             i.fas.fa-circle-right.bg-color-4
-            | La mantequilla debe tener la misma consistencia que la détrempe para que se extienda uniformemente sin romperse.
+            | La mantequilla debe tener la misma consistencia que la <i>détrempe</i> para que se extienda uniformemente sin romperse.
           li
             i.fas.fa-circle-right.bg-color-4
             | Todos los ingredientes y el ambiente deben mantenerse fríos para evitar que la mantequilla se funda y se integre con la masa.
@@ -253,14 +253,14 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema2/img14.png' alt='Masa sucrée')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Hojaldre común</b>: la mantequilla se incorpora dentro de la détrempe formando un bloque que se envuelve con la masa. Es el método tradicional y requiere mayor destreza para lograr un laminado uniforme sin que la mantequilla se salga.
+            p.mb-2 <b>Hojaldre común</b>: la mantequilla se incorpora dentro de la <i>détrempe</i> formando un bloque que se envuelve con la masa. Es el método tradicional y requiere mayor destreza para lograr un laminado uniforme sin que la mantequilla se salga.
       
       .col-md-6.col-lg-6.mb-4(data-aos="fade-up")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema2/img15.png", alt="Masa sablée")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Hojaldre invertido</b>: la mantequilla envuelve a la détrempe, es decir, se invierte el orden tradicional. Esto facilita la ejecución en climas cálidos y produce un hojaldre más regular, con mejor desarrollo y textura más crujiente.
+            p.mb-2 <b>Hojaldre invertido</b>: la mantequilla envuelve a la <i>détrempe</i>, es decir, se invierte el orden tradicional. Esto facilita la ejecución en climas cálidos y produce un hojaldre más regular, con mejor desarrollo y textura más crujiente.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          
@@ -278,16 +278,16 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 Masas escaldadas (pasta choux)
+      h2 2.4 Masas escaldadas (pasta <i>choux</i>)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-8.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/img16.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-4 La pasta choux es única porque la harina se cocina previamente en agua y mantequilla antes de incorporar los huevos. Durante el horneado, el alto contenido de humedad genera vapor que infla la masa, creando un interior hueco perfecto para rellenar. McGee (2017) explica que "la pasta choux es un ejemplo fascinante de cómo el agua, transformada en vapor, puede convertirse en el mejor agente leudante cuando se combina con una estructura de gluten y huevo capaz de retenerlo" (p. 578).
+        p.mb-4 La pasta <i>choux</i> es única porque la harina se cocina previamente en agua y mantequilla antes de incorporar los huevos. Durante el horneado, el alto contenido de humedad genera vapor que infla la masa, creando un interior hueco perfecto para rellenar. McGee (2017) explica que "la pasta <i>choux</i> es un ejemplo fascinante de cómo el agua, transformada en vapor, puede convertirse en el mejor agente leudante cuando se combina con una estructura de gluten y huevo capaz de retenerlo" (p. 578).
         .bg-color-2.px-4.py-3.br-15
-          p.mb-0 <b>Aplicaciones:</b> éclairs, profiteroles, buñuelos, churros, parís-brest.
+          p.mb-0 <b>Aplicaciones:</b> <i>éclairs</i>, <i>profiteroles</i>, buñuelos, churros, <i>parís-brest</i>.
 
     .bg-full-width.bg-fondo-1
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -295,7 +295,7 @@
           .titulo-sexto.mb-4.color-acento-contenido
             h5 
               b Figura 4.
-              span Técnica de elaboración de masas escaldadas (pasta choux)
+              span Técnica de elaboración de masas escaldadas (pasta <i>choux</i>)
           figure.mb-2
             img.d-none.d-lg-block(src='@/assets/curso/tema2/img26.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
             img.d-block.d-lg-none(src='@/assets/curso/tema2/img27.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
@@ -306,14 +306,14 @@
     separador
 
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.5 Masas fermentadas (brioche, roscones)
+      h2 2.5 Masas fermentadas (<i>brioche</i>, roscones)
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-8.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/img17.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-3 Estas masas incorporan levadura como agente leudante biológico. La fermentación produce dióxido de carbono, que queda atrapado en la red de gluten, haciendo que la masa aumente de volumen. En repostería, las masas fermentadas suelen enriquecerse con huevos, mantequilla y azúcar, lo que la diferencia del pan común (Suas, 2014).
+        p.mb-3 Estas masas incorporan levadura como agente leudante biológico. La fermentación produce dióxido de carbono, que queda atrapado en la red de gluten, haciendo que la masa aumente de volumen. En repostería, las masas fermentadas suelen enriquecerse con huevos, mantequilla y azúcar, lo que las diferencia del pan común (Suas, 2014).
 
         h4.mb-3 Principios técnicos
 
@@ -338,21 +338,21 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema2/img18.png' alt='Masa sucrée')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Brioche</b>: masa francesa muy enriquecida, con alto contenido de mantequilla (hasta 50 % del peso de la harina) y huevos. Textura suave, delicada y ligeramente dulce. Puede elaborarse en diferentes formatos: brioche con cabeza, brioche nanterre, brioche mousseline.
+            p.mb-2 <b><i>Brioche</i></b>: masa francesa muy enriquecida, con alto contenido de mantequilla (hasta 50 % del peso de la harina) y huevos. Textura suave, delicada y ligeramente dulce. Puede elaborarse en diferentes formatos: <i>brioche</i> con cabeza, <i>brioche</i> nanterre, <i>brioche mousseline</i>.
             
       .col-md-6.col-lg-6.mb-4(data-aos="fade-up")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema2/img19.png", alt="Masa sablée")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Roscones</b>: masas típicas españolas, aromatizadas con azahar y decoradas con frutas confitadas. El Roscón de Reyes es el ejemplo más representativo.
+            p.mb-2 <b>Masas fermentadas:</b> aquellas que utilizan levadura biológica para ganar volumen y desarrollar sabor y textura. Ejemplo: <i>brioche</i>, roscones, masas típicas españolas aromatizadas con azahar y decoradas con frutas confitadas. El Roscón de Reyes es el ejemplo más representativo.
             
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          
         .titulo-sexto.mb-4.color-acento-contenido
           h5 
             b Figura 5.
-            span Técnica de elaboración de broiche o roscones
+            span Técnica de elaboración de <i>brioche</i> o roscones
         figure.mb-2
           img.d-none.d-lg-block(src='@/assets/curso/tema2/img28.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema2/img29.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto

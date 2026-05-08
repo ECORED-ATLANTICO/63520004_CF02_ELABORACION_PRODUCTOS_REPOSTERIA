@@ -37,7 +37,7 @@
                 td Acción de mezclar y trabajar una masa para desarrollar la red de gluten (en masas fermentadas) o para integrar homogéneamente los ingredientes (en masas quebradas), el amasado puede realizarse manualmente o con amasadora mecánica, y su duración e intensidad varían según el tipo de masa.
               tr
                 td Baño maría.
-                td Técnica de calentamiento indirecto que consiste en colocar un recipiente con la preparación dentro de otro recipiente más grande que contiene agua caliente. Este método permite una cocción suave y uniforme, evitando que los alimentos se quemen o se sobrecalienten. Se utiliza para fundir chocolate, elaborar flanes, cheesecakes y algunas cremas.
+                td Técnica de calentamiento indirecto que consiste en colocar un recipiente con la preparación dentro de otro recipiente más grande que contiene agua caliente. Este método permite una cocción suave y uniforme, evitando que los alimentos se quemen o se sobrecalienten. Se utiliza para fundir chocolate, elaborar flanes, <i>cheesecakes</i> y algunas cremas.
               tr
                 td Batir.
                 td Incorporar aire a una mezcla mediante movimiento rápido y enérgico, utilizando batidor de varillas manual o batidora eléctrica. El batido puede tener como objetivos: emulsionar, airear, disolver o integrar ingredientes.
@@ -60,14 +60,14 @@
                 td Escaldar.
                 td Sumergir un alimento brevemente en agua hirviendo y luego inmediatamente en agua con hielo para detener la cocción. Se utiliza para pelar fácilmente frutas y verduras (tomates, duraznos), para fijar color de vegetales verdes o para eliminar sabores amargos.
               tr
-                td Fondant.
-                td Pasta de azúcar de textura maleable utilizada para cubrir tortas (fondant de cobertura) o para modelar figuras decorativas (fondant modelable). Su elaboración requiere precisión en las proporciones y temperaturas.
+                td <i>Fondant</i>.
+                td Pasta de azúcar de textura maleable utilizada para cubrir tortas (<i>fondant</i> de cobertura) o para modelar figuras decorativas (<i>fondant</i> modelable). Su elaboración requiere precisión en las proporciones y temperaturas.
               tr
-                td Ganache.
-                td Mezcla de chocolate y crema de leche caliente, cuya proporción determina su uso final: mayor proporción de crema para glaseados y rellenos líquidos, mayor proporción de chocolate para trufas y bombones.
+                td <i>Ganache</i>.
+                td Mezcla de chocolate y crema de leche caliente, cuya proporción determina su uso final: mayor proporción de crema para glaseados y rellenos líquidos, mayor proporción de chocolate para trufas y bombones. (<i>Ganache</i>).
               tr
                 td Glasa.
-                td Mezcla de azúcar glass con claras de huevo, jugo de limón o agua, utilizada para decorar y cubrir productos de repostería. Puede ser líquida (para cubrir) o más espesa (para decorar con manga).
+                td Mezcla de azúcar <i>glass</i> con claras de huevo, jugo de limón o agua, utilizada para decorar y cubrir productos de repostería. Puede ser líquida (para cubrir) o más espesa (para decorar con manga).
               tr
                 td Laminar.
                 td Extender una masa en capas finas y uniformes mediante el uso de rodillo o laminadora. Técnica fundamental en la elaboración de hojaldre y masas para pastelería fina.
@@ -78,14 +78,14 @@
                 td Mermar.
                 td Reducir un líquido por evaporación mediante calor, con el objetivo de concentrar sabores y espesar. Se aplica en la elaboración de salsas, jarabes y algunas cremas.
               tr
-                td Mise en place.
-                td Término francés que significa "poner en su lugar". Se refiere a la organización y preparación previa de todos los ingredientes, utensilios y equipos necesarios antes de comenzar la elaboración. Esta práctica, fundamental en la cocina profesional, garantiza eficiencia, precisión y evita errores durante el proceso.
+                td <i>Mise en place</i>.
+                td Término francés que significa "poner en su lugar". Se refiere a la organización y preparación previa de todos los ingredientes, utensilios y equipos necesarios antes de comenzar la elaboración. Esta práctica, fundamental en la cocina profesional, garantiza eficiencia, precisión y evita errores durante el proceso. Una adecuada <i>mise en place</i> garantiza fluidez.
               tr
                 td Montar.
-                td Batir crema de leche (mínimo 35 % de grasa) o claras de huevo hasta que aumenten su volumen y se vuelvan espumosas y firmes. En el caso de la crema, se habla de "crema montada" o "chantilly"; en el caso de las claras, de "punto de nieve".
+                td Batir crema de leche (mínimo 35 % de grasa) o claras de huevo hasta que aumenten su volumen y se vuelvan espumosas y firmes. En el caso de la crema, se habla de "crema montada" o "<i>chantilly</i>"; en el caso de las claras, de "punto de nieve".
               tr
                 td Punto de bola.
-                td Etapa en la cocción del azúcar donde una gota del almíbar, al ser sumergida en agua fría, forma una bola de consistencia blanda o dura. Este punto es crítico en la elaboración de merengues, fondant y algunos caramelos.
+                td Etapa en la cocción del azúcar donde una gota del almíbar, al ser sumergida en agua fría, forma una bola de consistencia blanda o dura. Este punto es crítico en la elaboración de merengues, <i>fondant</i> y algunos caramelos.
               tr
                 td Templar.
                 td Técnica de estabilización del chocolate que consiste en controlar su temperatura a través de ciclos de calentamiento y enfriamiento, para obtener un producto final brillante, con textura crujiente y que no forme vetas blancas (florecimiento).

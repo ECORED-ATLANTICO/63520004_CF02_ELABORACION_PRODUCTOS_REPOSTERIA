@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Jarabes, fondant, cremas, coberturas y salsas básicas
+      h1 Jarabes, <i>fondant</i>, cremas, coberturas y salsas básicas
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
@@ -70,7 +70,7 @@
     separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2 Cremas: pastelera, mantequilla, chantilly, diplomática, muselina
+      h2 3.2 Cremas: pastelera, mantequilla, <i>chantilly</i>, diplomática, <i>muselina</i>
 
     p.mb-4 Las cremas son preparaciones fundamentales que actúan como rellenos, coberturas o bases para otros postres.
 
@@ -79,7 +79,7 @@
         SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 Crema pastelera (Crème pâtissière): 
+              h4.mb-3 Crema pastelera (<i>Crème pâtissière</i>): 
               p.mb-0 Base de leche, yemas, azúcar, almidón (maicena o harina) y vainilla. Se cocina hasta que espesa por la gelatinización del almidón y la coagulación de las yemas. Es fundamental para milhojas, cañas, profiteroles, tartas de frutas. Su temperatura de cocción alcanza los 85 - 90 °C.
               
             .col-md-8.col-lg-5
@@ -88,7 +88,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema mantequilla (Crème au beurre)
+              h4.mb-3 Crema mantequilla (<i>Crème au beurre</i>)
               p.mb-0 Mantequilla batida con un almíbar a punto de bola (merengue italiano) o con crema pastelera (crema mantequilla con base de crema pastelera). Utilizada para decoración y rellenos de pasteles elegantes. Su textura es suave y sedosa.
 
             .col-md-8.col-lg-5
@@ -97,8 +97,8 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema chantilly (Crème Chantilly)
-              p.mb-0 Crema de leche (mínimo 35 % de grasa) batida con azúcar glass y vainilla, logrando una textura aireada y ligera. Es fundamental que todos los elementos (crema, bowl, batidores) estén muy fríos para un montado exitoso.
+              h4.mb-3 Crema <i>chantilly</i> (<i>Crème Chantilly</i>)
+              p.mb-0 Crema de leche (mínimo 35 % de grasa) batida con azúcar <i>glass</i> y vainilla, logrando una textura aireada y ligera. Es fundamental que todos los elementos (crema, <i>bowl</i>, batidores) estén muy fríos para un montado exitoso.
 
             .col-md-8.col-lg-5
               figure
@@ -106,7 +106,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema diplomática (Crème diplomate)
+              h4.mb-3 Crema diplomática (<i>Crème diplomate</i>)
               p.mb-0 Mezcla de crema pastelera y crema chantilly, generalmente en proporción 2:1 o 3:1. Puede añadirse gelatina para darle mayor firmeza. Es ideal para rellenar hojaldres, tartas y postres en vaso.
 
             .col-md-8.col-lg-5
@@ -115,7 +115,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema muselina (Crème mousseline)
+              h4.mb-3 Crema <i>muselina</i> (<i>Crème mousseline</i>)
               p.mb-0 Crema pastelera enriquecida con mantequilla en proporción 1:1 (peso de crema: peso de mantequilla). Más firme que la diplomática, ideal para rellenos de pasteles que requieren estructura.
 
             .col-md-8.col-lg-5
@@ -126,7 +126,7 @@
     
     .bg-full-width.bg-fondo-1.px-4.px-md-5.pb-4
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 3.3 Coberturas: chocolate, ganache, espejo
+        h2 3.3 Coberturas: chocolate, <i>ganache</i>, espejo
 
       p.mb-4 Las coberturas son preparaciones utilizadas en repostería para recubrir, decorar y realzar la apariencia de diferentes productos como tortas, postres y pasteles. Además de aportar un acabado atractivo, también contribuyen al sabor, la textura y la presentación final de las preparaciones.
 
@@ -134,7 +134,7 @@
         .bg-color-7.p-4.br-15
           .row.justify-content-center.align-items-center
             .col-lg
-              p.mb-0(data-aos="fade-right") Entre las coberturas más utilizadas se encuentran el chocolate, la ganache y el glaseado espejo. Cada una posee características particulares en cuanto a consistencia, brillo y aplicación, lo que permite utilizarlas en diferentes tipos de productos y técnicas de decoración dentro de la repostería.
+              p.mb-0(data-aos="fade-right") Entre las coberturas más utilizadas se encuentran el chocolate, la <i>ganache</i> y el glaseado espejo. Cada una posee características particulares en cuanto a consistencia, brillo y aplicación, lo que permite utilizarlas en diferentes tipos de productos y técnicas de decoración dentro de la repostería.
             .col-auto.mb-3.mb-lg-0.d-none.d-lg-flex
               figure
                 img(src="@/assets/curso/tema3/img09.png", data-aos="zoom-in").img-100.mx-auto
@@ -154,26 +154,26 @@
                   figure
                     img(src="@/assets/curso/tema3/img11.png", alt="Cobertura de chocolate").mx-auto
 
-            div(titulo="Ganache")
+            div(titulo="<i>Ganache</i>")
               .row.justify-content-center.align-items-center
                 .col-lg-7.mb-4.mb-lg-0
                   p.ms-5 Mezcla de chocolate y crema de leche caliente. La proporción determina su uso final:
                   .lista-ul--color.ms-5
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 1:1 (chocolate: crema): ganache líquida, ideal para glaseados y salsas.
+                      | Proporción 1:1 (chocolate: crema): <i>ganache</i> líquida, ideal para glaseados y salsas.
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 2:1: ganache de textura media, perfecta para rellenos de tartas y bombones.
+                      | Proporción 2:1: <i>ganache</i> de textura media, perfecta para rellenos de tartas y bombones.
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 3:1: ganache firme, utilizada para trufas y bombones moldeados.
+                      | Proporción 3:1: <i>ganache</i> firme, utilizada para trufas y bombones moldeados.
 
                 .col-lg-5
                   figure
                     img(src="@/assets/curso/tema3/img12.png", alt="Ganache").mx-auto
 
-            div(titulo="Cobertura espejo (Glaçage miroir)")
+            div(titulo="Cobertura espejo (<i>Glaçage miroir</i>)")
               .row.justify-content-center.align-items-center
                 .col-lg-7.mb-4.mb-lg-0
                   p.ms-5 Glaseado brillante y liso, elaborado con chocolate, leche condensada, gelatina y glucosa, que se vierte sobre pasteles congelados para obtener una superficie reflectante y profesional.
@@ -218,12 +218,12 @@
           div(titulo="Salsa de chocolate")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.ms-5 Similar a la cobertura ganache, pero más líquida, con mayor proporción de líquido (leche, crema o agua).
+                p.ms-5 Similar a la cobertura <i>ganache</i>, pero más líquida, con mayor proporción de líquido (leche, crema o agua).
               .col-lg-5
                 figure
                   img(src="@/assets/curso/tema3/img17.png", alt="Salsa de chocolate").mx-auto
 
-          div(titulo="Crema inglesa (Crème anglaise)")
+          div(titulo="Crema inglesa (<i>Crème anglaise</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5 Crema ligera a base de leche, yemas y azúcar, cocida hasta 82 - 85 °C para espesar ligeramente sin hervir. Sirve como base para helados o como salsa para acompañar postres.
@@ -237,16 +237,16 @@
     separador
     
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.5 Fondant: cubierta y modelable
+      h2 3.5 <i>Fondant</i>: cubierta y modelable
 
-    p.mb-4 El fondant es una preparación utilizada en repostería principalmente para cubrir y decorar tortas, pasteles y otros productos dulces. Se caracteriza por su textura suave y flexible, lo que permite extenderlo fácilmente sobre las superficies de los postres para lograr acabados lisos y uniformes.
+    p.mb-4 El <i>fondant</i> es una preparación utilizada en repostería principalmente para cubrir y decorar tortas, pasteles y otros productos dulces. Se caracteriza por su textura suave y flexible, lo que permite extenderlo fácilmente sobre las superficies de los postres para lograr acabados lisos y uniformes.
       
     .container
       .row.mb-5.justify-content-center.align-items-center
         .bg-color-7.p-4.br-15
           .row.justify-content-center.align-items-center
             .col-lg
-              p.mb-0(data-aos="fade-right") Además de su uso como cubierta, el fondant también puede moldearse para crear figuras, decoraciones y detalles personalizados. Gracias a estas características, se convierte en un recurso muy utilizado en la decoración de repostería, permitiendo obtener presentaciones creativas y atractivas en diferentes tipos de preparaciones; entre los más utilizados tenemos:
+              p.mb-0(data-aos="fade-right") Además de su uso como cubierta, el <i>fondant</i> también puede moldearse para crear figuras, decoraciones y detalles personalizados. Gracias a estas características, se convierte en un recurso muy utilizado en la decoración de repostería, permitiendo obtener presentaciones creativas y atractivas en diferentes tipos de preparaciones; entre los más utilizados tenemos:
             .col-auto.mb-3.mb-lg-0.d-none.d-lg-flex
               figure
                 img(src="@/assets/curso/tema3/img19.png", data-aos="zoom-in").img-100.mx-auto
@@ -258,7 +258,7 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema3/img20.png' alt='Fondant cubierta')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Fondant cubierta (Fondant pâtissier)</b>: pasta de azúcar líquida y brillante que se vierte sobre pasteles (petits fours, bizcochos) para obtener una capa lisa y brillante. Se utiliza caliente (35 - 40 °C).
+            p.mb-2 <b><i>Fondant</i> cubierta (<i>Fondant pâtissier</i>)</b>: pasta de azúcar líquida y brillante que se vierte sobre pasteles (<i>petits fours</i>, bizcochos) para obtener una capa lisa y brillante. Se utiliza caliente (35 - 40 °C).
 
             
       .col-md-6.col-lg-6.mb-4(data-aos="fade-left")
@@ -266,7 +266,7 @@
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema3/img21.png", alt="Fondant modelable")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Fondant modelable (Sugar paste)</b>: pasta de azúcar más firme que se extiende con rodillo y se moldea para cubrir tortas (fondant de cobertura) y crear figuras decorativas. Contiene glucosa, gelatina y grasa vegetal que le otorgan plasticidad.
+            p.mb-2 <b><i>Fondant</i> modelable (<i>Sugar paste</i>)</b>: pasta de azúcar más firme que se extiende con rodillo y se moldea para cubrir tortas (<i>fondant</i> de cobertura) y crear figuras decorativas. Contiene glucosa, gelatina y grasa vegetal que le otorgan plasticidad.
             
 </template>
 

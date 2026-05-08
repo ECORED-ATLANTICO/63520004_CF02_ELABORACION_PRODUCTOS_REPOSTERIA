@@ -11,7 +11,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La elaboración de productos de repostería más complejos implica la aplicación de técnicas específicas que combinan diferentes preparaciones base. Estas técnicas especializadas, como las empleadas en natillas, mousses o postres helados requieren un conocimiento profundo de los fenómenos físicos y químicos que ocurren durante su proceso, así como un manejo cuidadoso de los ingredientes y las temperaturas.
+        p.banner-text La elaboración de productos de repostería más complejos implica la aplicación de técnicas específicas que combinan diferentes preparaciones base. Estas técnicas especializadas, como las empleadas en natillas, <i>mousses</i> o postres helados requieren un conocimiento profundo de los fenómenos físicos y químicos que ocurren durante su proceso, así como un manejo cuidadoso de los ingredientes y las temperaturas.
 
     separador
     
@@ -53,16 +53,16 @@
     separador
     
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2 Bavarois, mousses y soufflés
+      h2 4.2 <i>Bavarois</i>, <i>mousses</i> y <i>soufflés</i>
 
     .bloque-texto-g.bg-color-7.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img04.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-3 Los bavarois, mousses y soufflés son preparaciones clásicas de la repostería que se caracterizan por su textura ligera, suave y aireada. Estos postres se elaboran a partir de diferentes técnicas que permiten incorporar aire a las mezclas, logrando consistencias delicadas y agradables al paladar.
+        p.mb-3 Los <i>bavarois</i>, <i>mousses</i> y <i>soufflés</i> son preparaciones clásicas de la repostería que se caracterizan por su textura ligera, suave y aireada. Estos postres se elaboran a partir de diferentes técnicas que permiten incorporar aire a las mezclas, logrando consistencias delicadas y agradables al paladar.
         <br>
-        p.mb-0 Cada una de estas preparaciones presenta características particulares: el bavarois combina una base cremosa con gelatina para obtener una textura firme y suave; la mousse se distingue por su ligereza y cremosidad; y el soufflé se caracteriza por su volumen y esponjosidad al ser horneado. Estas elaboraciones permiten diversificar la oferta de postres y aportar variedad de sabores y presentaciones en la repostería.
+        p.mb-0 Cada una de estas preparaciones presenta características particulares: el <i>bavarois</i> combina una base cremosa con gelatina para obtener una textura firme y suave; la <i>mousse</i> se distingue por su ligereza y cremosidad; y el <i>soufflé</i> se caracteriza por su volumen y esponjosidad al ser horneado. Estas elaboraciones permiten diversificar la oferta de postres y aportar variedad de sabores y presentaciones en la repostería.
 
     .row.align-items-stretch.justify-content-center.mb-5
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-down")
@@ -70,28 +70,28 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema4/img05.png' alt='Bavarois')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Bavarois (Bavaroise)</b>: Postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema chantilly montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
+            p.mb-2 <b><i>Bavarois</i> (<i>Bavaroise</i>)</b>: Postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema <i>chantilly</i> montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
 
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-down")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema4/img06.png' alt='Soufflé')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Soufflé</b>: Postre espectacular que se infla en el horno gracias a las claras montadas. Puede ser caliente (soufflé caliente) o frío (soufflé frío, que no se hornea). El soufflé caliente debe servirse inmediatamente salido del horno para disfrutar de su textura esponjosa.
+            p.mb-2 <b><i>Soufflé</i></b>: Postre espectacular que se infla en el horno gracias a las claras montadas. Puede ser caliente (<i>soufflé</i> caliente) o frío (<i>soufflé</i> frío, que no se hornea). El <i>soufflé</i> caliente debe servirse inmediatamente salido del horno para disfrutar de su textura esponjosa.
 
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-up")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema4/img07.png", alt="Mousse")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Mousse</b>: Preparación aireada que puede ser dulce o salada. La aireación se logra mediante claras montadas o crema chantilly. Puede llevar gelatina para darle mayor firmeza. La mousse de chocolate es la más conocida.
+            p.mb-2 <b><i>Mousse</i></b>: Preparación aireada que puede ser dulce o salada. La aireación se logra mediante claras montadas o crema <i>chantilly</i>. Puede llevar gelatina para darle mayor firmeza. La <i>mousse</i> de chocolate es la más conocida.
             
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          
         .titulo-sexto.mb-4.color-acento-contenido
           h5 
             b Figura 7. 
-            span Técnica de elaboración de mousse
+            span Técnica de elaboración de <i>mousse</i>
         figure.mb-2
           img.d-none.d-lg-block(src='@/assets/curso/tema4/img14.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema4/img15.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
@@ -119,20 +119,20 @@
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img09.png' alt='Helado')
             .p-4
-              h4.text-center Helado (Ice cream)
+              h4.text-center Helado (<i>Ice cream</i>)
               p.text-center Mezcla de leche, crema, azúcar y aromas, que se bate durante el congelamiento para incorporar aire (crecimiento) y evitar la formación de cristales grandes de hielo.
 
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img10.png' alt='Sorbete')
             .p-4
-              h4.text-center Sorbete (Sorbet)
+              h4.text-center Sorbete (<i>Sorbet</i>)
               p.text-center Similar al helado, pero sin lácteos, a base de agua, azúcar y pulpa de fruta. Textura más ligera y refrescante.
 
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img11.png' alt='Semifrío')
             .p-4
-              h4.text-center Semifrío (Semifreddo)
-              p.text-center Postre congelado que no requiere máquina de helados. Se basa en una mousse o crema (yemas, azúcar, crema montada, claras montadas) que se congela en molde.
+              h4.text-center Semifrío (<i>Semifreddo</i>)
+              p.text-center Postre congelado que no requiere máquina de helados. Se basa en una <i>mousse</i> o crema (yemas, azúcar, crema montada, claras montadas) que se congela en molde.
 
 
 

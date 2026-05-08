@@ -294,11 +294,11 @@
             figure
               img(src="@/assets/curso/tema2/img11.png", data-aos="zoom-in").mx-auto.w-75
           .col-lg-8.p-4.p-lg-5  
-            p.mb-3 A continuación, el siguiente podcast, Masas batidas, técnica y control de calidad en bizcochos; se encuentra en la carpeta Anexos.
+            p.mb-3 A continuación, el siguiente podcast, Costos de producción en repostería, rentabilidad y gestión profesional; se encuentra en la carpeta Anexos.
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="Masas batidas, técnica y control de calidad en bizcochos"
+              texto="Costos de producción en repostería, rentabilidad y gestión profesional"
               tiempo
-              :audio="require('@/assets/curso/audio/1.mp3')"
+              :audio="require('@/assets/curso/audio/Costos de producción en repostería, rentabilidad y gestión profesional.mp3')"
             )
         
 
