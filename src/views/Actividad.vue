@@ -37,7 +37,7 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Correcto. La <i>mise en place</i> significa “poner en su lugar” y consiste en organizar previamente ingredientes, utensilios y equipos antes de iniciar la preparación.',
+            'Correcto. La mise en place significa “poner en su lugar” y consiste en organizar previamente ingredientes, utensilios y equipos antes de iniciar la preparación.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

@@ -49,7 +49,7 @@ export default {
           {
             numero: '2.1',
             titulo:
-              'Masas quebradas (masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablee</i>)',
+              'Masas quebradas (masa brisa, masa <i>sucrée</i>, masa <i>sablee</i>)',
             hash: 't_2_1',
           },
           {
@@ -387,7 +387,7 @@ export default {
         'mezcla de chocolate y crema de leche caliente, utilizada como relleno, cobertura o base para trufas.',
     },
     {
-      termino: '<i>HACCP</i>',
+      termino: 'HACCP',
       significado:
         'enfoque preventivo para garantizar la inocuidad de los alimentos basado en el análisis de peligros y puntos críticos de control.',
     },

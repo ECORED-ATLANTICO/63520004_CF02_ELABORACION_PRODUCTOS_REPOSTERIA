@@ -39,25 +39,25 @@
               img(src='@/assets/curso/tema5/img05.png' alt='Helado')
               .p-4
                 h4.text-center Colores primarios: 
-                p.mb-0 rojo, azul y amarillo. No se obtienen por mezcla y son la base para crear todos los demás colores.
+                p.mb-0 Rojo, azul y amarillo. No se obtienen por mezcla y son la base para crear todos los demás colores.
                 
             .tarjeta.bg-color-7.h-100
               img(src='@/assets/curso/tema5/img06.png' alt='Sorbete')
               .p-4
                 h4.text-center Colores secundarios: 
-                p.mb-0 verde (azul + amarillo), naranja (amarillo + rojo), violeta (rojo + azul).
+                p.mb-0 Verde (azul + amarillo), naranja (amarillo + rojo), violeta (rojo + azul).
                 
             .tarjeta.bg-color-7.h-100
               img(src='@/assets/curso/tema5/img07.png' alt='Semifrío')
               .p-4
                 h4.text-center Colores intermedios o terciarios: 
-                p.mb-0 mezcla de un primario y un secundario adyacente (ej: amarillo verdoso, rojo anaranjado, azul violáceo).
+                p.mb-0 Mezcla de un primario y un secundario adyacente (ej: amarillo verdoso, rojo anaranjado, azul violáceo).
 
             .tarjeta.bg-color-7.h-100
               img(src='@/assets/curso/tema5/img08.png' alt='Semifrío')
               .p-4
                 h4.text-center Armonías de color: 
-                p.mb-0 combinaciones agradables a la vista, como complementarios (opuestos en el círculo: rojo-verde, azul-naranja) o análogos (vecinos en el círculo: amarillo, amarillo-naranja, naranja).
+                p.mb-0 Combinaciones agradables a la vista, como complementarios (opuestos en el círculo: rojo-verde, azul-naranja) o análogos (vecinos en el círculo: amarillo, amarillo-naranja, naranja).
 
 
       .row.mb-5.justify-content-center.align-items-center
@@ -96,19 +96,19 @@
                 ul.lista-ul--color.ms-5
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Lisa (<i>round</i>): para escribir, bordes, rellenar, churros, <i>éclairs</i>.
+                    span #[b Lisa (#[em round]):] para escribir, bordes, rellenar, churros, #[em éclairs].
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Estrella (<i>star</i>): para rosetones, conchas, bordes decorativos (abierta o cerrada).
+                    span #[b Estrella (#[em star]):] para rosetones, conchas, bordes decorativos (abierta o cerrada).
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Rizada o pétalo (<i>petal</i>): para formar flores y pétalos (rosas, claveles).
+                    span #[b Rizada o pétalo (#[em petal]):] para formar flores y pétalos (rosas, claveles).
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Hoja (<i>Leaf</i>): para formar hojas.
+                    span #[b Hoja (#[em Leaf]):] para formar hojas.
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    | Rellena (Bismarck): para inyectar rellenos en el interior de masas.
+                    span #[b Rellena (#[em Bismarck]):] para inyectar rellenos en el interior de masas.
               .col-lg-5
                 figure
                   img(src="@/assets/curso/tema5/img11.png", alt="Boquillas").mx-auto

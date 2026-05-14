@@ -79,7 +79,7 @@
                 td Reducir un líquido por evaporación mediante calor, con el objetivo de concentrar sabores y espesar. Se aplica en la elaboración de salsas, jarabes y algunas cremas.
               tr
                 td <i>Mise en place</i>.
-                td Término francés que significa "poner en su lugar". Se refiere a la organización y preparación previa de todos los ingredientes, utensilios y equipos necesarios antes de comenzar la elaboración. Esta práctica, fundamental en la cocina profesional, garantiza eficiencia, precisión y evita errores durante el proceso. Una adecuada <i>mise en place</i> garantiza fluidez.
+                td Término francés que significa "poner en su lugar". Se refiere a la organización y preparación previa de todos los ingredientes, utensilios y equipos necesarios antes de comenzar la elaboración. Esta práctica, fundamental en la cocina profesional, garantiza eficiencia, precisión y evita errores durante el proceso.
               tr
                 td Montar.
                 td Batir crema de leche (mínimo 35 % de grasa) o claras de huevo hasta que aumenten su volumen y se vuelvan espumosas y firmes. En el caso de la crema, se habla de "crema montada" o "<i>chantilly</i>"; en el caso de las claras, de "punto de nieve".

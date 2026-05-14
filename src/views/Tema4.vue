@@ -70,21 +70,21 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema4/img05.png' alt='Bavarois')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Bavarois</i> (<i>Bavaroise</i>)</b>: Postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema <i>chantilly</i> montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
+            p.mb-2 <b><i>Bavarois</i> (<i>Bavaroise</i>)</b>: postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema <i>chantilly</i> montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
 
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-down")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema4/img06.png' alt='Soufflé')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Soufflé</i></b>: Postre espectacular que se infla en el horno gracias a las claras montadas. Puede ser caliente (<i>soufflé</i> caliente) o frío (<i>soufflé</i> frío, que no se hornea). El <i>soufflé</i> caliente debe servirse inmediatamente salido del horno para disfrutar de su textura esponjosa.
+            p.mb-2 <b><i>Soufflé</i></b>: postre espectacular que se infla en el horno gracias a las claras montadas. Puede ser caliente (<i>soufflé</i> caliente) o frío (<i>soufflé</i> frío, que no se hornea). El <i>soufflé</i> caliente debe servirse inmediatamente salido del horno para disfrutar de su textura esponjosa.
 
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-up")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema4/img07.png", alt="Mousse")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Mousse</i></b>: Preparación aireada que puede ser dulce o salada. La aireación se logra mediante claras montadas o crema <i>chantilly</i>. Puede llevar gelatina para darle mayor firmeza. La <i>mousse</i> de chocolate es la más conocida.
+            p.mb-2 <b><i>Mousse</i></b>: preparación aireada que puede ser dulce o salada. La aireación se logra mediante claras montadas o crema <i>chantilly</i>. Puede llevar gelatina para darle mayor firmeza. La <i>mousse</i> de chocolate es la más conocida.
             
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          
@@ -93,12 +93,10 @@
             b Figura 7. 
             span Técnica de elaboración de <i>mousse</i>
         figure.mb-2
-          img.d-none.d-lg-block(src='@/assets/curso/tema4/img14.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
-          img.d-block.d-lg-none(src='@/assets/curso/tema4/img15.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
+          img.d-none.d-lg-block(src='@/assets/curso/tema4/img14.png', alt='La figura muestra el paso a paso de la técnica de la elaboración del mousse. 1.Fundir chocolate con un poco de crema de leche al baño maría o microondas. 2.Montar crema de leche a medio punto (chantilly). 3.Separar las yemas (opcional) y montar claras a punto de nieve con una pizca de azúcar. 4.Incorporar la crema montada al chocolate fundido con movimientos envolventes. 5.Incorporar las claras montadas suavemente, en dos o tres veces, cuidando de no perder el aire. 6.Dividir la mousse en cuencos individuales. 7.Refrigerar mínimo 4 horas antes de servir. 8.Servir frío y disfrutar con adiciones opcionales (frutas, virutas).').mx-auto
+          img.d-block.d-lg-none(src='@/assets/curso/tema4/img15.png', alt='La figura muestra el paso a paso de la técnica de la elaboración del mousse. 1.Fundir chocolate con un poco de crema de leche al baño maría o microondas. 2.Montar crema de leche a medio punto (chantilly). 3.Separar las yemas (opcional) y montar claras a punto de nieve con una pizca de azúcar. 4.Incorporar la crema montada al chocolate fundido con movimientos envolventes. 5.Incorporar las claras montadas suavemente, en dos o tres veces, cuidando de no perder el aire. 6.Dividir la mousse en cuencos individuales. 7.Refrigerar mínimo 4 horas antes de servir. 8.Servir frío y disfrutar con adiciones opcionales (frutas, virutas).').mx-auto
 
-        figcaption 
-          b Nota. 
-          | SENA, (2026).
+        figcaption  Nota.  SENA, (2026).
 
     separador
     

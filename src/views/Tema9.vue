@@ -178,7 +178,6 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
-        p.mb-4 La Resolución 2184 de 2019 adoptó el código de colores para la separación de residuos sólidos en Colombia:
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Tabla 9.	
           span La Resolución 2184 de 2019 adoptó el código de colores para la separación de residuos sólidos en Colombia:
@@ -215,16 +214,16 @@
               ul.lista-ul--color
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
-                  | Los recipientes deben estar claramente identificados con el color correspondiente y con letreros que indiquen el tipo de residuo.
+                  span Los recipientes deben estar claramente identificados con el color correspondiente y con letreros que indiquen el tipo de residuo.
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
-                  | Los residuos aprovechables deben estar limpios y secos para facilitar su reciclaje (enjuagar envases de plástico, vidrio y tetra <i>pak</i> antes de depositar).
+                  span Los residuos aprovechables deben estar limpios y secos para facilitar su reciclaje (enjuagar envases de plástico, vidrio y tetra #[em pak] antes de depositar).
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
-                  | No mezclar residuos orgánicos con inorgánicos aprovechables.
+                  span No mezclar residuos orgánicos con inorgánicos aprovechables.
                 li.mb-2
                   i.fas.fa-circle-right.bg-color-4
-                  | Los residuos peligrosos deben tener un recipiente especial, claramente identificado y separado de los demás.
+                  span Los residuos peligrosos deben tener un recipiente especial, claramente identificado y separado de los demás.
 
       .col-lg-4.col-md-8
         figure
@@ -238,19 +237,19 @@
           ul.lista-ul--color
             li.mb-2
               i.fas.fa-circle-right.bg-color-4
-              | Recipientes: deben ser de material resistente, lavable, con tapa (preferiblemente de accionamiento con pedal para evitar contacto manual), y del tamaño adecuado según el volumen de generación.
+              span #[b Recipientes:] deben ser de material resistente, lavable, con tapa (preferiblemente de accionamiento con pedal para evitar contacto manual), y del tamaño adecuado según el volumen de generación.
             li.mb-2
               i.fas.fa-circle-right.bg-color-4
-              | Bolsas: utilizar bolsas resistentes del color correspondiente al tipo de residuo. Las bolsas deben retirarse cuando alcancen máximo el 75 % de su capacidad.
+              span #[b Bolsas:] utilizar bolsas resistentes del color correspondiente al tipo de residuo. Las bolsas deben retirarse cuando alcancen máximo el 75 % de su capacidad.
             li.mb-2
               i.fas.fa-circle-right.bg-color-4
-              | Frecuencia de retiro: los residuos orgánicos deben retirarse diariamente para evitar malos olores, proliferación de moscas y otros vectores. Los residuos aprovechables pueden tener una frecuencia menor, siempre que se almacenen en condiciones que no generen problemas sanitarios.
+              span #[b Frecuencia de retiro:] los residuos orgánicos deben retirarse diariamente para evitar malos olores, proliferación de moscas y otros vectores. Los residuos aprovechables pueden tener una frecuencia menor, siempre que se almacenen en condiciones que no generen problemas sanitarios.
             li.mb-2
               i.fas.fa-circle-right.bg-color-4
-              | Cuarto de basuras: debe estar ubicado en un área separada de las zonas de producción y almacenamiento de alimentos. Debe tener pisos y paredes lavables, ventilación adecuada, protección contra plagas, y fácil acceso para el servicio de recolección.
+              span #[b Cuarto de basuras:] debe estar ubicado en un área separada de las zonas de producción y almacenamiento de alimentos. Debe tener pisos y paredes lavables, ventilación adecuada, protección contra plagas, y fácil acceso para el servicio de recolección.
             li.mb-2
               i.fas.fa-circle-right.bg-color-4
-              | Lavado y desinfección: los recipientes y el cuarto de basuras deben lavarse y desinfectarse periódicamente para evitar la acumulación de suciedad y la proliferación de plagas.
+              span #[b Lavado y desinfección:] los recipientes y el cuarto de basuras deben lavarse y desinfectarse periódicamente para evitar la acumulación de suciedad y la proliferación de plagas.
 
     separador
     .bg-full-width.bg-fondo-1
@@ -291,16 +290,16 @@
                 ul.lista-ul--color
                   li.mb-1
                     i.fas.fa-circle-right.bg-color-4
-                    | Realizar la separación en la fuente de los residuos generados.
+                    span Realizar la separación en la fuente de los residuos generados.
                   li.mb-1
                     i.fas.fa-circle-right.bg-color-4
-                    | Presentar los residuos para recolección en los horarios y frecuencias establecidos.
+                    span Presentar los residuos para recolección en los horarios y frecuencias establecidos.
                   li.mb-1
                     i.fas.fa-circle-right.bg-color-4
-                    | Almacenar los residuos en condiciones que no generen riesgos sanitarios o ambientales.
+                    span Almacenar los residuos en condiciones que no generen riesgos sanitarios o ambientales.
                   li.mb-1
                     i.fas.fa-circle-right.bg-color-4
-                    | Pagar las tarifas por el servicio de aseo.
+                    span Pagar las tarifas por el servicio de aseo.
 
         .col-md-12.col-lg-12.col-xl-12.mb-4(data-aos="fade-down")
           .tarjeta.p-4.rounded-4.tarjeta-label.border-color-3.h-100
@@ -335,7 +334,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/tema6/img4.png")
-          h3.titulo-con-imagen__texto Buenas prácticas ambientales en repostería
+          h3.titulo-con-imagen__texto Buenas prácticas ambientales en repostería:
 
     p.mb-4 Además del cumplimiento normativo, se recomienda implementar prácticas que reduzcan el impacto ambiental:
 

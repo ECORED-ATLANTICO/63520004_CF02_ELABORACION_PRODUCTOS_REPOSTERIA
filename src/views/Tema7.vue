@@ -116,7 +116,7 @@
       .titulo-con-imagen.mb-0(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/tema6/img4.png")
-          h3.titulo-con-imagen__texto Cálculo del costo real de una receta
+          h3.titulo-con-imagen__texto Cálculo del costo real de una receta:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -294,9 +294,9 @@
             figure
               img(src="@/assets/curso/tema2/img11.png", data-aos="zoom-in").mx-auto.w-75
           .col-lg-8.p-4.p-lg-5  
-            p.mb-3 A continuación, el siguiente podcast, Costos de producción en repostería, rentabilidad y gestión profesional; se encuentra en la carpeta Anexos.
+            p.mb-3 A continuación, el siguiente <em>podcast</em>, Costos de producción en repostería, rentabilidad y gestión profesional.
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="Costos de producción en repostería, rentabilidad y gestión profesional"
+              texto="Costos de producción y fijación de precios en repostería"
               tiempo
               :audio="require('@/assets/curso/audio/Costos de producción en repostería, rentabilidad y gestión profesional.mp3')"
             )

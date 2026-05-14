@@ -34,7 +34,7 @@
                 td Masas quebradas.
                 td Textura crujiente y arenosa.
                 td Principalmente vapor y químico.
-                td Masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablée</i>.
+                td Masa brisa, masa <i>sucrée</i>, masa <i>sablée</i>.
               tr
                 td Masas batidas.
                 td Textura esponjosa y aireada.
@@ -60,7 +60,7 @@
 
     .bg-full-width.bg-fondo-1
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.1 Masas quebradas (masa <i>brisa</i>, masa <i>sucrée</i>, masa <i>sablee</i>)
+        h2 2.1 Masas quebradas (masa brisa, masa <i>sucrée</i>, masa <i>sablee</i>)
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-4.col-md-8.mb-3.mb-lg-0
@@ -71,19 +71,19 @@
   
           h4.mb-3 Principios técnicos
   
-          .lista-ul--color
+          ul.lista-ul--color
             li
               i.fas.fa-circle-right.bg-color-4
-              | La grasa (mantequilla) debe estar fría para evitar que se integre completamente con la harina.
+              span La grasa (mantequilla) debe estar fría para evitar que se integre completamente con la harina.
             li
               i.fas.fa-circle-right.bg-color-4
-              | El agua debe estar fría para no fundir la mantequilla.
+              span El agua debe estar fría para no fundir la mantequilla.
             li
               i.fas.fa-circle-right.bg-color-4
-              | El amasado debe ser mínimo, solo hasta unir los ingredientes.
+              span El amasado debe ser mínimo, solo hasta unir los ingredientes.
             li
               i.fas.fa-circle-right.bg-color-4
-              | El reposo en refrigeración es fundamental para relajar el gluten y permitir que la grasa se endurezca nuevamente.
+              span El reposo en refrigeración es fundamental para relajar el gluten y permitir que la grasa se endurezca nuevamente.
 
 
       .row.align-items-stretch.justify-content-center.mb-5
@@ -122,9 +122,7 @@
           img.d-none.d-lg-block(src='@/assets/curso/tema2/img20.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema2/img21.png', alt='La figura muestra la técnica de elaboración de una masa quebrada por medio del método de arenado. Explicación debajo de la imagen. 1. Todos los ingredientes (harina, mantequilla, huevos, agua) deben estar fríos. 2. Tamizar la harina sobre la superficie de trabajo o en un bol amplio. 3. Agregar la mantequilla fría cortada en cubos pequeños. 4. Con las yemas de los dedos, frotar la mantequilla con la harina hasta obtener una textura arenosa, con grumos del tamaño de arvejas. Este proceso debe ser rápido para evitar que el calor de las manos funda la mantequilla. 5. Formar un volcán con la mezcla arenosa y agregar en el centro los líquidos (huevos batidos, agua) y el azúcar (si aplica). 6. Incorporar los líquidos con movimientos suaves, desde el centro hacia los bordes, solo hasta que la masa se una. No amasar. 7. Formar un disco, envolver en film plástico y refrigerar mínimo 30 minutos (idealmente 1-2 horas) antes de estirar y hornear.').mx-auto
 
-        figcaption 
-          b Nota. 
-          | SENA, (2026).
+        figcaption  Nota.  SENA, (2026).
 
     separador
 
@@ -141,19 +139,19 @@
 
           h4.mb-3 Principios técnicos
   
-          .lista-ul--color
+          ul.lista-ul--color
             li
               i.fas.fa-circle-right.bg-color-4
-              | Los huevos (o claras) deben estar a temperatura ambiente para maximizar su capacidad de retener aire.
+              span Los huevos (o claras) deben estar a temperatura ambiente para maximizar su capacidad de retener aire.
             li
               i.fas.fa-circle-right.bg-color-4
-              | El azúcar estabiliza la espuma de huevo y contribuye a la textura final.
+              span El azúcar estabiliza la espuma de huevo y contribuye a la textura final.
             li
               i.fas.fa-circle-right.bg-color-4
-              | La harina debe incorporarse con movimientos envolventes para no desinflar la mezcla.
+              span La harina debe incorporarse con movimientos envolventes para no desinflar la mezcla.
             li
               i.fas.fa-circle-right.bg-color-4
-              | El horneado debe realizarse inmediatamente después de incorporar la harina.
+              span El horneado debe realizarse inmediatamente después de incorporar la harina.
 
 
       .row.align-items-stretch.justify-content-center.mb-3
@@ -163,16 +161,16 @@
               img(src='@/assets/curso/tema2/img08.png' alt='Bizcocho')
             .ms-lg-5.ms-0.ps-md-3
               p.mb-3 <b>Bizcochos</b>: pueden elaborarse por diferentes métodos:
-              .lista-ul--color
+              ul.lista-ul--color
                 li
                   i.fas.fa-circle-right.bg-color-4
-                  | Método tradicional (Mantequilla y azúcar cremados): se crema la mantequilla con el azúcar, se agregan los huevos gradualmente, finalmente se incorpora la harina.
+                  span #[b Método tradicional (mantequilla y azúcar cremados):] se crema la mantequilla con el azúcar, se agregan los huevos gradualmente, finalmente se incorpora la harina.
                 li
                   i.fas.fa-circle-right.bg-color-4
-                  | Método genovés (Huevos y azúcar batidos al calor): se baten los huevos enteros con el azúcar al baño María (40 - 45 °C) hasta que triplican su volumen y forman "cinta" al dejar caer la mezcla. Luego se incorpora la harina suavemente.
+                  span #[b Método genovés (huevos y azúcar batidos al calor):] se baten los huevos enteros con el azúcar al baño maría #[b (40 - 45 °C)] hasta que triplican su volumen y forman "cinta" al dejar caer la mezcla. Luego se incorpora la harina suavemente.
                 li
                   i.fas.fa-circle-right.bg-color-4
-                  | Método separado (Claras montadas): se montan las claras por separado y se incorporan al final a la mezcla de yemas, harina y mantequilla.
+                  span #[b Método separado (claras montadas):] se montan las claras por separado y se incorporan al final a la mezcla de yemas, harina y mantequilla.
 
 
     .row.align-items-stretch.justify-content-center.mb-5
@@ -198,7 +196,7 @@
             figure
               img(src="@/assets/curso/tema2/img11.png", data-aos="zoom-in").mx-auto.w-75
           .col-lg-8.p-4.p-lg-5  
-            p.mb-3 A continuación, el siguiente podcast, Masas batidas, técnica y control de calidad en bizcochos; se encuentra en la carpeta Anexos.
+            p.mb-3 A continuación, el siguiente podcast, Masas batidas, técnica y control de calidad en bizcochos.
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
               texto="Masas batidas, técnica y control de calidad en bizcochos"
               tiempo
@@ -215,9 +213,7 @@
         figure.mb-2
           img.d-none.d-lg-block(src='@/assets/curso/tema2/img22.png', alt='Texto alternativo: La figura muestra la técnica de elaboración de una masa batida por medio del método genovés. A continuación, se explica después de la figura. 1. Calentar los huevos y el azúcar al baño María, batiendo constantemente, hasta alcanzar 40 - 45°C. 2. Retirar del fuego y batir a velocidad alta (con batidora eléctrica) hasta que la mezcla se enfríe, triplique su volumen y adquiera una textura espumosa y de color pálido. 3. Verificar el "punto de cinta": al levantar el batidor, la mezcla debe caer formando una cinta que permanece visible en la superficie durante algunos segundos. 4. Tamizar la harina sobre la mezcla y incorporarla con movimientos envolventes suaves, utilizando una espátula de goma. 5. Verter en moldes enharinados o con papel y hornear inmediatamente a 180°C.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema2/img23.png', alt='Texto alternativo: La figura muestra la técnica de elaboración de una masa batida por medio del método genovés. A continuación, se explica después de la figura. 1. Calentar los huevos y el azúcar al baño María, batiendo constantemente, hasta alcanzar 40 - 45°C. 2. Retirar del fuego y batir a velocidad alta (con batidora eléctrica) hasta que la mezcla se enfríe, triplique su volumen y adquiera una textura espumosa y de color pálido. 3. Verificar el "punto de cinta": al levantar el batidor, la mezcla debe caer formando una cinta que permanece visible en la superficie durante algunos segundos. 4. Tamizar la harina sobre la mezcla y incorporarla con movimientos envolventes suaves, utilizando una espátula de goma. 5. Verter en moldes enharinados o con papel y hornear inmediatamente a 180°C.').mx-auto
-        figcaption 
-          b Nota. 
-          | SENA, (2026).
+        figcaption  Nota.  SENA, (2026).
 
     separador
 
@@ -233,19 +229,19 @@
 
         h4.mb-3 Principios técnicos
 
-        .lista-ul--color
+        ul.lista-ul--color
           li
             i.fas.fa-circle-right.bg-color-4
-            | La mantequilla debe tener la misma consistencia que la <i>détrempe</i> para que se extienda uniformemente sin romperse.
+            span La mantequilla debe tener la misma consistencia que la #[em détrempe] para que se extienda uniformemente sin romperse.
           li
             i.fas.fa-circle-right.bg-color-4
-            | Todos los ingredientes y el ambiente deben mantenerse fríos para evitar que la mantequilla se funda y se integre con la masa.
+            span Todos los ingredientes y el ambiente deben mantenerse fríos para evitar que la mantequilla se fundir y se integre con la masa.
           li
             i.fas.fa-circle-right.bg-color-4
-            | Los tiempos de reposo entre vueltas son fundamentales para relajar el gluten y evitar que la masa se encoja.
+            span Los tiempos de reposo entre vueltas son fundamentales para relajar el gluten y evitar que la masa se encoja.
           li
             i.fas.fa-circle-right.bg-color-4
-            | El horneado inicial a alta temperatura genera vapor que separa las capas, permitiendo que el hojaldre se eleve.
+            span El horneado inicial a alta temperatura genera vapor que separa las capas, permitiendo que el hojaldre se eleve.
 
     .row.align-items-stretch.justify-content-center.mb-5
       .col-md-6.col-lg-6.mb-4(data-aos="fade-down")
@@ -260,7 +256,7 @@
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema2/img15.png", alt="Masa sablée")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Hojaldre invertido</b>: la mantequilla envuelve a la <i>détrempe</i>, es decir, se invierte el orden tradicional. Esto facilita la ejecución en climas cálidos y produce un hojaldre más regular, con mejor desarrollo y textura más crujiente.
+            p.mb-2 <b>Hojaldre invertido</b>: la mantequilla envuelve a la <em>détrempe</em>, es decir, se invierte el orden tradicional. Esto facilita la ejecución en climas cálidos y produce un hojaldre más regular, con mejor desarrollo y textura más crujiente.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          
@@ -271,9 +267,7 @@
         figure.mb-2
           img.d-none.d-lg-block(src='@/assets/curso/tema2/img24.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema2/img25.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
-        figcaption 
-          b Nota. 
-          | SENA, (2026).
+        figcaption  Nota.  SENA, (2026).
 
     separador
 
@@ -317,19 +311,19 @@
 
         h4.mb-3 Principios técnicos
 
-        .lista-ul--color
+        ul.lista-ul--color
           li
             i.fas.fa-circle-right.bg-color-4
-            | La temperatura de los líquidos debe ser tibia (25 - 30 °C) para activar la levadura sin matarla.
+            span La temperatura de los líquidos debe ser tibia #[b (25 - 30 °C)] para activar la levadura sin matarla.
           li
             i.fas.fa-circle-right.bg-color-4
-            | El desarrollo del gluten mediante amasado es fundamental para retener los gases.
+            span El desarrollo del gluten mediante amasado es fundamental para retener los gases.
           li
             i.fas.fa-circle-right.bg-color-4
-            | Los tiempos de fermentación deben controlarse según temperatura ambiente.
+            span Los tiempos de fermentación deben controlarse según temperatura ambiente.
           li
             i.fas.fa-circle-right.bg-color-4
-            | El enriquecimiento con grasas y azúcares ralentiza la fermentación, por lo que se requieren tiempos más largos.
+            span El enriquecimiento con grasas y azúcares ralentiza la fermentación, por lo que se requieren tiempos más largos.
 
 
     .row.align-items-stretch.justify-content-center.mb-5
@@ -356,9 +350,7 @@
         figure.mb-2
           img.d-none.d-lg-block(src='@/assets/curso/tema2/img28.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
           img.d-block.d-lg-none(src='@/assets/curso/tema2/img29.png', alt='La figura muestra el paso a paso de la técnica de elaboración de la masa de hojaldre. Texto con la explicación debajo de la figura. 1.	Vuelta simple (o de tres): la masa se estira en un rectángulo alargado y se dobla en tres partes, como si se doblara una carta. Primero se dobla un tercio hacia el centro y luego el otro tercio sobre el primero. 2.	Vuelta doble (o de cuatro): la masa se estira en un rectángulo, se doblan ambos extremos hacia el centro y luego se dobla por la mitad, obteniendo cuatro capas. 3.	Numero de capas: un hojaldre completo suele llevar 6 vueltas simples o 4 vueltas dobles, generando cientos de capas, para una textura excepcional. Con 6 vueltas simples se obtienen teóricamente 729 capas. 4.	Reposo y refrigeración: entre cada vuelta, la masa debe reposar refrigerada mínimo 30 minutos para relajar el gluten y mantener la mantequilla fría.').mx-auto
-        figcaption 
-          b Nota. 
-          | SENA, (2026).
+        figcaption  Nota.  SENA, (2026).
 
 
 </template>

@@ -158,16 +158,16 @@
               .row.justify-content-center.align-items-center
                 .col-lg-7.mb-4.mb-lg-0
                   p.ms-5 Mezcla de chocolate y crema de leche caliente. La proporción determina su uso final:
-                  .lista-ul--color.ms-5
+                  ul.lista-ul--color.ms-5
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 1:1 (chocolate: crema): <i>ganache</i> líquida, ideal para glaseados y salsas.
+                      span #[b Proporción 1:1 (chocolate: crema):] #[em ganache] líquida, ideal para glaseados y salsas.
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 2:1: <i>ganache</i> de textura media, perfecta para rellenos de tartas y bombones.
+                      span #[b Proporción 2:1:] #[em ganache] de textura media, perfecta para rellenos de tartas y bombones.
                     li
                       i.fas.fa-circle-right.bg-color-4
-                      | Proporción 3:1: <i>ganache</i> firme, utilizada para trufas y bombones moldeados.
+                      span #[b Proporción 3:1:] #[em ganache] firme, utilizada para trufas y bombones moldeados.
 
                 .col-lg-5
                   figure

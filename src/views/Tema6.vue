@@ -83,7 +83,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Tabla 5.
-          span Criterios microbiológicos para productos de repostería (Ejemplo)
+          span Criterios microbiológicos para productos de repostería (ejemplo)
         .tabla-a.color-acento-contenido.mb-0
           table
             caption Nota. Basado en normativa INVIMA (2020) y <i>Codex Alimentarius</i> (1993). UFC: Unidades Formadoras de Colonia.
@@ -179,7 +179,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p.mb-0 Según el sistema <i>HACCP</i> (análisis de peligros y puntos críticos de control), se deben identificar etapas donde el control es esencial para prevenir, eliminar o reducir un peligro a niveles aceptables (<i>Codex Alimentarius</i>, 1993).
+        p.mb-0 Según el sistema HACCP (análisis de peligros y puntos críticos de control), se deben identificar etapas donde el control es esencial para prevenir, eliminar o reducir un peligro a niveles aceptables (<em>Codex Alimentarius</em>, 1993).
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
