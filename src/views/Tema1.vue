@@ -64,7 +64,7 @@
                 td Pasta de azúcar de textura maleable utilizada para cubrir tortas (<i>fondant</i> de cobertura) o para modelar figuras decorativas (<i>fondant</i> modelable). Su elaboración requiere precisión en las proporciones y temperaturas.
               tr
                 td <i>Ganache</i>.
-                td Mezcla de chocolate y crema de leche caliente, cuya proporción determina su uso final: mayor proporción de crema para glaseados y rellenos líquidos, mayor proporción de chocolate para trufas y bombones. (<i>Ganache</i>).
+                td Mezcla de chocolate y crema de leche caliente, cuya proporción determina su uso final: mayor proporción de crema para glaseados y rellenos líquidos, mayor proporción de chocolate para trufas y bombones.
               tr
                 td Glasa.
                 td Mezcla de azúcar <i>glass</i> con claras de huevo, jugo de limón o agua, utilizada para decorar y cubrir productos de repostería. Puede ser líquida (para cubrir) o más espesa (para decorar con manga).
