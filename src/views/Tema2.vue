@@ -198,7 +198,7 @@
           .col-lg-8.p-4.p-lg-5  
             p.mb-3 A continuación, el siguiente podcast, Masas batidas en repostería, técnica, estructura y calidad profesional 
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="Masas batidas, técnica y control de calidad en bizcochos"
+              texto="Masas batidas en repostería, técnica, estructura y calidad profesional "
               tiempo
               :audio="require('@/assets/curso/audio/Masas batidas en repostería, técnica, estructura y calidad profesional PODCAST.mp3')"
             )
