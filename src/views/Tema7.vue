@@ -160,27 +160,27 @@
               tr
                 td Harina.
                 td 500 g
-                td $4.000 / kg
+                td $4.000/kg
                 td $2.000
               tr
                 td Huevos.
                 td 4 unidades
-                td $500 / unidad
+                td $500/unidad
                 td $2.000
               tr
                 td Azúcar.
                 td 300 g
-                td $3.500 / kg
+                td $3.500/kg
                 td $1.050
               tr
                 td Mantequilla.
                 td 250 g
-                td $12.000 / kg
+                td $12.000/kg
                 td $3.000
               tr
                 td Vainilla.
                 td 10 ml
-                td $20.000 / L
+                td $20.000/L
                 td $200
               tr
                 td <b>Costo total de la receta.</b>
@@ -211,7 +211,7 @@
               figure.img-100
                 img(src="@/assets/curso/tema7/img08.png", alt="Método de costo más margen").mx-auto
             .col
-              p.mb-0 <b>Método del factor (sobre costo de materia prima):</b> este método consiste en multiplicar el costo de la materia prima por un factor que cubra los demás costos (mano de obra, costos indirectos, gastos fijos) y la utilidad deseada.
+              p.mb-0 <b>Método del factor (sobrecosto de materia prima):</b> este método consiste en multiplicar el costo de la materia prima por un factor que cubra los demás costos (mano de obra, costos indirectos, gastos fijos) y la utilidad deseada.
 
           .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
             .col-lg-12
@@ -296,7 +296,7 @@
           .col-lg-8.p-4.p-lg-5  
             p.mb-3 A continuación, el siguiente <em>podcast</em>, Costos de producción en repostería, rentabilidad y gestión profesional.
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="Costos de producción y fijación de precios en repostería"
+              texto="Costos de producción en repostería, rentabilidad y gestión profesional "
               tiempo
               :audio="require('@/assets/curso/audio/Costos de producción en repostería, rentabilidad y gestión profesional.mp3')"
             )

@@ -98,7 +98,7 @@
                 ul.lista-ul--color
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Plásticos: envases de ingredientes, bolsas, <i>film</i>, recipientes.
+                    | Plásticos: envases de ingredientes, bolsas,&nbsp;<i>film</i>, recipientes.
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
                     | Vidrio: botellas de esencias, licores, envases.
@@ -110,7 +110,7 @@
                     | Metales: latas de conservas, aerosoles (vacíos).
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Tetra <i>pak</i>: envases de leche, crema de leche, jugos.
+                    | Tetra Pak: envases de leche, crema de leche, jugos.
 
           .p-3.p-md-4(titulo="No aprovechables")
             .row.justify-content-center.align-items-center
@@ -133,7 +133,7 @@
                 ul.lista-ul--color
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
-                    | Envases de aerosoles (aceites en <i>spray</i>, desmoldantes).
+                    | Envases de aerosoles (aceites en&nbsp; <i>spray</i>, desmoldantes).
                   li.mb-2
                     i.fas.fa-circle-right.bg-color-4
                     | Envases de productos de limpieza y desinfección.
@@ -277,7 +277,7 @@
                 figure.img-50.width-mobile-25
                   img(src="@/assets/curso/tema9/img10.png", alt="Normativa ambiental").mx-auto
               .col
-                p.mb-0 <b>Ley 1259 de 2008:</b> instaura el Comparendo Ambiental como instrumento de cultura ciudadana para sancionar a quienes infrinjan la normativa de aseo y limpieza. Las sanciones pueden ser pedagógicas (cursos, talleres) o económicas (multas), y aplican por acciones como sacar basura en horarios no autorizados, no separar residuos, arrojar basura en espacios públicos, entre otras.
+                p.mb-0 <b>Ley 1259 de 2008:</b> instaura el comparendo ambiental como instrumento de cultura ciudadana para sancionar a quienes infrinjan la normativa de aseo y limpieza. Las sanciones pueden ser pedagógicas (cursos, talleres) o económicas (multas), y aplican por acciones como sacar basura en horarios no autorizados, no separar residuos, arrojar basura en espacios públicos, entre otras.
 
         .col-md-12.col-lg-12.col-xl-12.mb-4(data-aos="fade-down")
           .tarjeta.p-4.rounded-4.tarjeta-label.border-color-1.h-100

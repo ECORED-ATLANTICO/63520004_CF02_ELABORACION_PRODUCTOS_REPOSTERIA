@@ -70,7 +70,7 @@
           .tarjeta-label__img-wrapper
             img(src='@/assets/curso/tema4/img05.png' alt='Bavarois')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Bavarois</i> (<i>Bavaroise</i>)</b>: postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema <i>chantilly</i> montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
+            p.mb-2 <b><i>Bavarois</i> (<i>bavaroise</i>)</b>: postre moldeado de textura sedosa, a base de crema inglesa, gelatina y crema <i>chantilly</i> montada. Se refrigera hasta que cuaja. Puede aromatizarse con café, chocolate, frutas o licores.
 
       .col-md-6.col-lg-6.col-xl-4.mb-4(data-aos="fade-down")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
@@ -117,19 +117,19 @@
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img09.png' alt='Helado')
             .p-4
-              h4.text-center Helado (<i>Ice cream</i>)
+              h4.text-center Helado (<i>ice cream</i>)
               p.text-center Mezcla de leche, crema, azúcar y aromas, que se bate durante el congelamiento para incorporar aire (crecimiento) y evitar la formación de cristales grandes de hielo.
 
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img10.png' alt='Sorbete')
             .p-4
-              h4.text-center Sorbete (<i>Sorbet</i>)
+              h4.text-center Sorbete (<i>sorbet</i>)
               p.text-center Similar al helado, pero sin lácteos, a base de agua, azúcar y pulpa de fruta. Textura más ligera y refrescante.
 
           .tarjeta.bg-color-7.h-100
             img(src='@/assets/curso/tema4/img11.png' alt='Semifrío')
             .p-4
-              h4.text-center Semifrío (<i>Semifreddo</i>)
+              h4.text-center Semifrío (<i>semifreddo</i>)
               p.text-center Postre congelado que no requiere máquina de helados. Se basa en una <i>mousse</i> o crema (yemas, azúcar, crema montada, claras montadas) que se congela en molde.
 
 

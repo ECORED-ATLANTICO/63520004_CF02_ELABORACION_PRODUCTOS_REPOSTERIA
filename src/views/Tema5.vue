@@ -81,7 +81,7 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-6")
-          div(titulo="Manga pastelera (<i>Piping bag</i>)")
+          div(titulo="Manga pastelera (<i>piping bag</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5 Herramienta fundamental para aplicar cremas, masas y glaseados con precisión. El manejo correcto incluye llenar solo hasta la mitad, eliminar burbujas de aire y aplicar presión uniforme con una mano mientras la otra guía la manga.
@@ -89,7 +89,7 @@
                 figure
                   img(src="@/assets/curso/tema5/img10.png", alt="Manga pastelera").mx-auto
 
-          div(titulo="Boquillas (<i>Tips</i>)")
+          div(titulo="Boquillas (<i>tips</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5.mb-2 Determinan la forma de la decoración. Las más comunes son:
@@ -105,15 +105,15 @@
                     span #[b Rizada o pétalo (#[em petal]):] para formar flores y pétalos (rosas, claveles).
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    span #[b Hoja (#[em Leaf]):] para formar hojas.
+                    span #[b Hoja (#[em leaf]):] para formar hojas.
                   li
                     i.fas.fa-circle-right.bg-color-4
-                    span #[b Rellena (#[em Bismarck]):] para inyectar rellenos en el interior de masas.
+                    span #[b Rellena (#[em bismarck]):] para inyectar rellenos en el interior de masas.
               .col-lg-5
                 figure
                   img(src="@/assets/curso/tema5/img11.png", alt="Boquillas").mx-auto
 
-          div(titulo="Glaseado (<i>Icing</i>)")
+          div(titulo="Glaseado (<i>icing</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 p.ms-5 Puede ser fluido (para cubrir) o más espeso (para decorar con manga). El glaseado real (<i>royal icing</i>) se elabora con clara de huevo o merengue en polvo y azúcar <i>glass</i>, y se endurece al secar, ideal para decoraciones finas.
@@ -167,7 +167,7 @@
               img(src='@/assets/curso/tema5/img19.png' alt='Limpieza')
               .p-4
                 h4.text-center Limpieza: 
-                p.mb-0 El borde del plato debe estar impecable, sin manchas ni huellas. Menos, es más: la sencillez elegante suele ser más efectiva.
+                p.mb-0 El borde del plato debe estar impecable, sin manchas ni huellas. Menos es más: la sencillez elegante suele ser más efectiva.
 
 
 

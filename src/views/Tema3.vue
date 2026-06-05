@@ -79,7 +79,7 @@
         SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 Crema pastelera (<i>Crème pâtissière</i>): 
+              h4.mb-3 Crema pastelera (<i>crème pâtissière</i>): 
               p.mb-0 Base de leche, yemas, azúcar, almidón (maicena o harina) y vainilla. Se cocina hasta que espesa por la gelatinización del almidón y la coagulación de las yemas. Es fundamental para milhojas, cañas, profiteroles, tartas de frutas. Su temperatura de cocción alcanza los 85 - 90 °C.
               
             .col-md-8.col-lg-5
@@ -88,7 +88,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema mantequilla (<i>Crème au beurre</i>)
+              h4.mb-3 Crema mantequilla (<i>crème au beurre</i>)
               p.mb-0 Mantequilla batida con un almíbar a punto de bola (merengue italiano) o con crema pastelera (crema mantequilla con base de crema pastelera). Utilizada para decoración y rellenos de pasteles elegantes. Su textura es suave y sedosa.
 
             .col-md-8.col-lg-5
@@ -97,7 +97,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema <i>chantilly</i> (<i>Crème Chantilly</i>)
+              h4.mb-3 Crema <i>chantilly</i> (<i>crème Chantilly</i>)
               p.mb-0 Crema de leche (mínimo 35 % de grasa) batida con azúcar <i>glass</i> y vainilla, logrando una textura aireada y ligera. Es fundamental que todos los elementos (crema, <i>bowl</i>, batidores) estén muy fríos para un montado exitoso.
 
             .col-md-8.col-lg-5
@@ -106,7 +106,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema diplomática (<i>Crème diplomate</i>)
+              h4.mb-3 Crema diplomática (<i>crème diplomate</i>)
               p.mb-0 Mezcla de crema pastelera y crema chantilly, generalmente en proporción 2:1 o 3:1. Puede añadirse gelatina para darle mayor firmeza. Es ideal para rellenar hojaldres, tartas y postres en vaso.
 
             .col-md-8.col-lg-5
@@ -115,7 +115,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0
-              h4.mb-3 Crema <i>muselina</i> (<i>Crème mousseline</i>)
+              h4.mb-3 Crema <i>muselina</i> (<i>crème mousseline</i>)
               p.mb-0 Crema pastelera enriquecida con mantequilla en proporción 1:1 (peso de crema: peso de mantequilla). Más firme que la diplomática, ideal para rellenos de pasteles que requieren estructura.
 
             .col-md-8.col-lg-5
@@ -149,7 +149,7 @@
             div(titulo="Cobertura de chocolate")
               .row.justify-content-center.align-items-center
                 .col-lg-7.mb-4.mb-lg-0
-                  p.ms-5 Chocolate de alta calidad con mayor contenido de manteca de cacao (32 - 39 %), ideal para templar y moldear. Requiere un proceso de templado para lograr brillo y textura crujiente.
+                  p.ms-5 Chocolate de alta calidad con mayor contenido de manteca de cacao (32-39 %), ideal para templar y moldear. Requiere un proceso de templado para lograr brillo y textura crujiente.
                 .col-lg-5
                   figure
                     img(src="@/assets/curso/tema3/img11.png", alt="Cobertura de chocolate").mx-auto
@@ -223,10 +223,10 @@
                 figure
                   img(src="@/assets/curso/tema3/img17.png", alt="Salsa de chocolate").mx-auto
 
-          div(titulo="Crema inglesa (<i>Crème anglaise</i>)")
+          div(titulo="Crema inglesa (<i>crème anglaise</i>)")
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-lg-0
-                p.ms-5 Crema ligera a base de leche, yemas y azúcar, cocida hasta 82 - 85 °C para espesar ligeramente sin hervir. Sirve como base para helados o como salsa para acompañar postres.
+                p.ms-5 Crema ligera a base de leche, yemas y azúcar, cocida hasta 82-85 °C para espesar ligeramente sin hervir. Sirve como base para helados o como salsa para acompañar postres.
               .col-lg-5
                 figure
                   img(src="@/assets/curso/tema3/img18.png", alt="Crema inglesa").mx-auto
@@ -256,17 +256,17 @@
       .col-md-6.col-lg-6.mb-4(data-aos="fade-right")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
-            img(src='@/assets/curso/tema3/img20.png' alt='Fondant cubierta')
+            img(src='@/assets/curso/tema3/img20.png' alt='fondant cubierta')
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Fondant</i> cubierta (<i>Fondant pâtissier</i>)</b>: pasta de azúcar líquida y brillante que se vierte sobre pasteles (<i>petits fours</i>, bizcochos) para obtener una capa lisa y brillante. Se utiliza caliente (35 - 40 °C).
+            p.mb-2 <b><i>Fondant</i> cubierta (<i>fondant pâtissier</i>)</b>: pasta de azúcar líquida y brillante que se vierte sobre pasteles (<i>petits fours</i>, bizcochos) para obtener una capa lisa y brillante. Se utiliza caliente (35 - 40 °C).
 
             
       .col-md-6.col-lg-6.mb-4(data-aos="fade-left")
         .tarjeta.bg-color-5.p-4.rounded-4.tarjeta-label.border-color-1.ms-md-5.h-100
           .tarjeta-label__img-wrapper
-            img(src="@/assets/curso/tema3/img21.png", alt="Fondant modelable")
+            img(src="@/assets/curso/tema3/img21.png", alt="fondant modelable")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b><i>Fondant</i> modelable (<i>Sugar paste</i>)</b>: pasta de azúcar más firme que se extiende con rodillo y se moldea para cubrir tortas (<i>fondant</i> de cobertura) y crear figuras decorativas. Contiene glucosa, gelatina y grasa vegetal que le otorgan plasticidad.
+            p.mb-2 <b><i>Fondant</i> modelable (<i>sugar paste</i>)</b>: pasta de azúcar más firme que se extiende con rodillo y se moldea para cubrir tortas (<i>fondant</i> de cobertura) y crear figuras decorativas. Contiene glucosa, gelatina y grasa vegetal que le otorgan plasticidad.
             
 </template>
 

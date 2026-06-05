@@ -196,7 +196,7 @@
             figure
               img(src="@/assets/curso/tema2/img11.png", data-aos="zoom-in").mx-auto.w-75
           .col-lg-8.p-4.p-lg-5  
-            p.mb-3 A continuación, el siguiente podcast, Masas batidas, técnica y control de calidad en bizcochos.
+            p.mb-3 A continuación, el siguiente podcast, Masas batidas en repostería, técnica, estructura y calidad profesional 
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
               texto="Masas batidas, técnica y control de calidad en bizcochos"
               tiempo
@@ -235,7 +235,7 @@
             span La mantequilla debe tener la misma consistencia que la #[em détrempe] para que se extienda uniformemente sin romperse.
           li
             i.fas.fa-circle-right.bg-color-4
-            span Todos los ingredientes y el ambiente deben mantenerse fríos para evitar que la mantequilla se fundir y se integre con la masa.
+            span Todos los ingredientes y el ambiente deben mantenerse fríos para evitar que la mantequilla se funda y se integre con la masa.
           li
             i.fas.fa-circle-right.bg-color-4
             span Los tiempos de reposo entre vueltas son fundamentales para relajar el gluten y evitar que la masa se encoja.
@@ -339,7 +339,7 @@
           .tarjeta-label__img-wrapper
             img(src="@/assets/curso/tema2/img19.png", alt="Masa sablée")
           .ms-lg-5.ms-0.ps-md-3
-            p.mb-2 <b>Masas fermentadas:</b> aquellas que utilizan levadura biológica para ganar volumen y desarrollar sabor y textura. Ejemplo: <i>brioche</i>, roscones, masas típicas españolas aromatizadas con azahar y decoradas con frutas confitadas. El Roscón de Reyes es el ejemplo más representativo.
+            p.mb-2 <b>Roscones:</b> masas típicas españolas, aromatizadas con azahar y decoradas con frutas confitadas. El Roscón de Reyes es el ejemplo más representativo. 
             
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10          

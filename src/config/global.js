@@ -384,12 +384,12 @@ export default {
     {
       termino: '<i>Ganache</i>',
       significado:
-        'mezcla de chocolate y crema de leche caliente, utilizada como relleno, cobertura o base para trufas.',
+        'mezcla de chocolate y crema de leche caliente, cuya proporción determina su uso final: mayor proporción de crema para glaseados y rellenos líquidos, mayor proporción de chocolate para trufas y bombones.',
     },
     {
       termino: 'HACCP',
       significado:
-        'enfoque preventivo para garantizar la inocuidad de los alimentos basado en el análisis de peligros y puntos críticos de control.',
+        'sistema de análisis de peligros y puntos críticos de control, enfoque preventivo para garantizar la inocuidad de los alimentos. ',
     },
     {
       termino: 'Laminar',
@@ -517,8 +517,7 @@ export default {
     {
       referencia:
         'SENA. (2020). <em>Manual de Buenas Prácticas de Manufactura para servicios de alimentación</em>. Dirección de Formación Profesional, Servicio Nacional de Aprendizaje.',
-      link:
-        'https://sena.territorio.la/content/index.php/instruccion/13190296-manual-de-buenas-practicas-de-manufactura-para-servicios-de-alimentacion-1506743',
+      link: '',
     },
     {
       referencia:

@@ -95,11 +95,11 @@
             tbody
               tr
                 td Mesófilos aerobios.
-                td &lt; 10.000 UFC/g.
+                td &lt; 10.000 UFC/g
                 td Higiene general adecuada.
               tr
                 td Coliformes.
-                td &lt; 10 UFC/g.
+                td &lt; 10 UFC/g
                 td Buenas prácticas de higiene.
               tr
                 td <i>E. coli</i>.
@@ -107,11 +107,11 @@
                 td Libre de contaminación fecal.
               tr
                 td <i>Salmonella</i>.
-                td Ausencia en 25g.
+                td Ausencia en 25g
                 td Producto seguro.
               tr
                 td Mohos y levaduras.
-                td &lt; 100 UFC/g.
+                td &lt; 100 UFC/g
                 td Control de deterioro.
 
     separador

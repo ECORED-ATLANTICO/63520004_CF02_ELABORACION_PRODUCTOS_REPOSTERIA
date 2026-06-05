@@ -159,13 +159,13 @@
             .tarjeta.color-acento-botones--borde.p-4(titulo="Completitud")
               h4 Completitud
               p.mb-0 No deben dejarse espacios en blanco. Si algún campo no aplica, debe escribirse "N/A" (no aplica) para indicar que no fue omitido por olvido.
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Precisión")
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Precisión en fechas y horas")
               h4 Precisión en fechas y horas
               p.mb-0 Las fechas deben registrarse completas (día, mes, año) y las horas deben ser exactas, especialmente en registros de temperaturas y procesos críticos.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Unidades de medida")
               h4 Unidades de medida
               p.mb-0 Todas las cantidades deben expresarse con unidades de medida claras y estandarizadas (kg, g, L, mL, unidades, °C). Evitar expresiones ambiguas como "un poco" o "al gusto" en registros formales.
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Responsable")
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Identificación del responsable")
               h4 Identificación del responsable
               p.mb-0 Cada registro debe incluir el nombre o firma de la persona que realiza el diligenciamiento, así como de quien verifica cuando corresponda.
             .tarjeta.color-acento-botones--borde.p-4(titulo="Corrección errores")
@@ -182,7 +182,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
-        p.mb-3 Cualquier situación anormal, desviación o incidente que ocurra durante el proceso productivo debe ser documentada mediante un reporte de novedades. Este reporte tiene como objetivo:
+        p.mb-3 Cualquier situación anormal, desviación o incidente que ocurra durante el proceso productivo debe ser documentado mediante un reporte de novedades. Este reporte tiene como objetivo:
         ul.lista-ul--color
           li.mb-2
             i.fas.fa-circle-right.bg-color-4
