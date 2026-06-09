@@ -34,7 +34,7 @@
             .tarjeta-label__img-wrapper
               img(src="@/assets/curso/tema4/img03.png", alt="Fondant modelable")
             .ms-lg-5.ms-0.ps-md-3
-              p.mb-2 <b>Natillas</b>: preparación a base de leche, yemas, azúcar y aromatizantes (vainilla, canela, limón). Se espesan por coagulación de las yemas, alcanzando una temperatura de 82 – 85 °C. Se sirven frías, tradicionalmente acompañadas de galleta.
+              p.mb-2 <b>Natillas</b>: preparación a base de leche, yemas, azúcar y aromatizantes (vainilla, canela, limón). Se espesan por coagulación de las yemas, alcanzando una temperatura de 82–85 °C. Se sirven frías, tradicionalmente acompañadas de galleta.
               
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-10          

@@ -52,7 +52,7 @@
                 td Batir mantequilla con azúcar hasta obtener una mezcla suave, esponjosa y de color pálido. Este proceso incorpora aire y asegura que el azúcar se disuelva parcialmente en la grasa, contribuyendo a la textura final del producto.
               tr
                 td Emulsionar.
-                td Mezcar dos líquidos que normalmente no se combinan, como aceite y agua o grasa y líquido acuoso, logrando una suspensión estable. En repostería, ejemplos de emulsiones son la mayonesa, algunas cremas y los bizcochos que incorporan mantequilla y huevos.
+                td Mezclar dos líquidos que normalmente no se combinan, como aceite y agua o grasa y líquido acuoso, logrando una suspensión estable. En repostería, ejemplos de emulsiones son la mayonesa, algunas cremas y los bizcochos que incorporan mantequilla y huevos.
               tr
                 td Enharinar.
                 td Espolvorear con harina un molde o superficie de trabajo para evitar que la preparación se adhiera. También se aplica a frutas o frutos secos antes de incorporarlos a masas, para evitar que se hundan durante el horneado.
